@@ -1,7 +1,7 @@
 # QuizArt app per beniculturali
-Progetto svolto per il corso di Interazione Uomo Macchina, vengono affrontate tutte le fasi dal Need Finding fino all'effettiva prototipazione e test dell'app.
-<h2>Gruppo IUManji</h2>
-[Vincenzo imperati] (https://github.com/VincenzoImp)
-[Alessio Lucciola] (https://github.com/AlessioLuc)
-Gaetano Conti
+Progetto svolto per il corso di Interazione Uomo Macchina. Vengono affrontate tutte le fasi per la progettazione di un applicazione mobile, partendo dal  Need Finding fino all'effettiva prototipazione e test dell'app.<br>
+**Gruppo IUManji:** <br>
+[Vincenzo imperati](https://github.com/VincenzoImp)<br>
+[Alessio Lucciola](https://github.com/AlessioLuc)<br>
+Gaetano Conti 
 
