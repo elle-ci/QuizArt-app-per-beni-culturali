@@ -1,0 +1,3470 @@
+{
+    "Meno di 18": {
+        "Maschio": {
+            "# intervistati": 3,
+            "# visite annue": {
+                "0": 0,
+                "1-2": 3,
+                "3-5": 0,
+                "piú di 5": 0
+            },
+            "occasioni visite": {
+                "viaggio": 3,
+                "weekend": 1,
+                "festivita'": 3,
+                "ferie": 1,
+                "altro": []
+            },
+            "canali informativi": {
+                "publicita'": 3,
+                "internet": 3,
+                "social network": 2,
+                "passaparola": 2,
+                "altro": []
+            },
+            "influenza Covid-19": {
+                "Per nulla": 0,
+                "Poco": 0,
+                "Abbastanza": 1,
+                "Molto": 2
+            },
+            "demotivazioni visite": {
+                "distanza": 0,
+                "prezzo": 0,
+                "disinteresse": 2,
+                "tempo": 3,
+                "compagnia": 2,
+                "niente": 0,
+                "altro": []
+            },
+            "scaricato app arte": {
+                "Si": 1,
+                "No": 2
+            },
+            "giocatore di quiz": {
+                "Sì": 3,
+                "No": 0
+            },
+            "motivazioni download app quiz": {
+                "Cultura personale": 3,
+                "Spirito di competizione": 3,
+                "Sfidare i tuoi amici": 2,
+                "Vincere premi": 0,
+                "Passatempo": 2,
+                "altro": []
+            },
+            "utilita' quiz": {
+                "1": 0,
+                "2": 0,
+                "3": 3,
+                "4": 0
+            },
+            "app conosciute": {
+                "Quiz duello": 2,
+                "Trivia Crack": 3,
+                "Live Quiz": 3,
+                "altro": []
+            },
+            "motivazioni NON download app quiz": {
+                "mai avuto occasione": 0,
+                "disinteresse": 0,
+                "assenza premi": 0,
+                "incapacita'": 0,
+                "altro": []
+            },
+            "parere app quiz tema arte": {
+                "use & talk": 2,
+                "NOTuse & talk": 1,
+                "NOTuse & NOTtalk": 0,
+                "altro": []
+            },
+            "bacheca informativa": {
+                "1": 0,
+                "2": 0,
+                "3": 2,
+                "4": 1
+            },
+            "curiosita'": {
+                "1": 0,
+                "2": 0,
+                "3": 3,
+                "4": 0
+            },
+            "classifica": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 3
+            },
+            "vincere buoni": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 3
+            },
+            "tema settimanale": {
+                "1": 0,
+                "2": 0,
+                "3": 2,
+                "4": 1
+            },
+            "consigli": [
+                "Aggiungerei molte immagini per rendere più interattivo il quiz e l'applicazione "
+            ]
+        },
+        "Femmina": {
+            "# intervistati": 4,
+            "# visite annue": {
+                "0": 0,
+                "1-2": 2,
+                "3-5": 2,
+                "piú di 5": 0
+            },
+            "occasioni visite": {
+                "viaggio": 3,
+                "weekend": 2,
+                "festivita'": 1,
+                "ferie": 0,
+                "altro": []
+            },
+            "canali informativi": {
+                "publicita'": 0,
+                "internet": 3,
+                "social network": 3,
+                "passaparola": 2,
+                "altro": []
+            },
+            "influenza Covid-19": {
+                "Per nulla": 0,
+                "Poco": 0,
+                "Abbastanza": 2,
+                "Molto": 2
+            },
+            "demotivazioni visite": {
+                "distanza": 3,
+                "prezzo": 0,
+                "disinteresse": 0,
+                "tempo": 4,
+                "compagnia": 0,
+                "niente": 0,
+                "altro": []
+            },
+            "scaricato app arte": {
+                "Si": 1,
+                "No": 3
+            },
+            "giocatore di quiz": {
+                "Sì": 4,
+                "No": 0
+            },
+            "motivazioni download app quiz": {
+                "Cultura personale": 2,
+                "Spirito di competizione": 0,
+                "Sfidare i tuoi amici": 2,
+                "Vincere premi": 0,
+                "Passatempo": 2,
+                "altro": []
+            },
+            "utilita' quiz": {
+                "1": 0,
+                "2": 2,
+                "3": 2,
+                "4": 0
+            },
+            "app conosciute": {
+                "Quiz duello": 2,
+                "Trivia Crack": 4,
+                "Live Quiz": 2,
+                "altro": []
+            },
+            "motivazioni NON download app quiz": {
+                "mai avuto occasione": 0,
+                "disinteresse": 0,
+                "assenza premi": 0,
+                "incapacita'": 0,
+                "altro": []
+            },
+            "parere app quiz tema arte": {
+                "use & talk": 3,
+                "NOTuse & talk": 1,
+                "NOTuse & NOTtalk": 0,
+                "altro": []
+            },
+            "bacheca informativa": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 3
+            },
+            "curiosita'": {
+                "1": 0,
+                "2": 1,
+                "3": 0,
+                "4": 3
+            },
+            "classifica": {
+                "1": 0,
+                "2": 2,
+                "3": 2,
+                "4": 0
+            },
+            "vincere buoni": {
+                "1": 0,
+                "2": 1,
+                "3": 0,
+                "4": 3
+            },
+            "tema settimanale": {
+                "1": 0,
+                "2": 1,
+                "3": 0,
+                "4": 3
+            },
+            "consigli": []
+        },
+        "Altro": {
+            "# intervistati": 0,
+            "# visite annue": {
+                "0": 0,
+                "1-2": 0,
+                "3-5": 0,
+                "piú di 5": 0
+            },
+            "occasioni visite": {
+                "viaggio": 0,
+                "weekend": 0,
+                "festivita'": 0,
+                "ferie": 0,
+                "altro": []
+            },
+            "canali informativi": {
+                "publicita'": 0,
+                "internet": 0,
+                "social network": 0,
+                "passaparola": 0,
+                "altro": []
+            },
+            "influenza Covid-19": {
+                "Per nulla": 0,
+                "Poco": 0,
+                "Abbastanza": 0,
+                "Molto": 0
+            },
+            "demotivazioni visite": {
+                "distanza": 0,
+                "prezzo": 0,
+                "disinteresse": 0,
+                "tempo": 0,
+                "compagnia": 0,
+                "niente": 0,
+                "altro": []
+            },
+            "scaricato app arte": {
+                "Si": 0,
+                "No": 0
+            },
+            "giocatore di quiz": {
+                "Sì": 0,
+                "No": 0
+            },
+            "motivazioni download app quiz": {
+                "Cultura personale": 0,
+                "Spirito di competizione": 0,
+                "Sfidare i tuoi amici": 0,
+                "Vincere premi": 0,
+                "Passatempo": 0,
+                "altro": []
+            },
+            "utilita' quiz": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "app conosciute": {
+                "Quiz duello": 0,
+                "Trivia Crack": 0,
+                "Live Quiz": 0,
+                "altro": []
+            },
+            "motivazioni NON download app quiz": {
+                "mai avuto occasione": 0,
+                "disinteresse": 0,
+                "assenza premi": 0,
+                "incapacita'": 0,
+                "altro": []
+            },
+            "parere app quiz tema arte": {
+                "use & talk": 0,
+                "NOTuse & talk": 0,
+                "NOTuse & NOTtalk": 0,
+                "altro": []
+            },
+            "bacheca informativa": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "curiosita'": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "classifica": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "vincere buoni": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "tema settimanale": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "consigli": []
+        },
+        "Generale": {
+            "# intervistati": 7,
+            "# visite annue": {
+                "0": 0,
+                "1-2": 5,
+                "3-5": 2,
+                "piú di 5": 0
+            },
+            "occasioni visite": {
+                "viaggio": 6,
+                "weekend": 3,
+                "festivita'": 4,
+                "ferie": 1,
+                "altro": []
+            },
+            "canali informativi": {
+                "publicita'": 3,
+                "internet": 6,
+                "social network": 5,
+                "passaparola": 4,
+                "altro": []
+            },
+            "influenza Covid-19": {
+                "Per nulla": 0,
+                "Poco": 0,
+                "Abbastanza": 3,
+                "Molto": 4
+            },
+            "demotivazioni visite": {
+                "distanza": 3,
+                "prezzo": 0,
+                "disinteresse": 2,
+                "tempo": 7,
+                "compagnia": 2,
+                "niente": 0,
+                "altro": []
+            },
+            "scaricato app arte": {
+                "Si": 2,
+                "No": 5
+            },
+            "giocatore di quiz": {
+                "Sì": 7,
+                "No": 0
+            },
+            "motivazioni download app quiz": {
+                "Cultura personale": 5,
+                "Spirito di competizione": 3,
+                "Sfidare i tuoi amici": 4,
+                "Vincere premi": 0,
+                "Passatempo": 4,
+                "altro": []
+            },
+            "utilita' quiz": {
+                "1": 0,
+                "2": 2,
+                "3": 5,
+                "4": 0
+            },
+            "app conosciute": {
+                "Quiz duello": 4,
+                "Trivia Crack": 7,
+                "Live Quiz": 5,
+                "altro": []
+            },
+            "motivazioni NON download app quiz": {
+                "mai avuto occasione": 0,
+                "disinteresse": 0,
+                "assenza premi": 0,
+                "incapacita'": 0,
+                "altro": []
+            },
+            "parere app quiz tema arte": {
+                "use & talk": 5,
+                "NOTuse & talk": 2,
+                "NOTuse & NOTtalk": 0,
+                "altro": []
+            },
+            "bacheca informativa": {
+                "1": 0,
+                "2": 0,
+                "3": 3,
+                "4": 4
+            },
+            "curiosita'": {
+                "1": 0,
+                "2": 1,
+                "3": 3,
+                "4": 3
+            },
+            "classifica": {
+                "1": 0,
+                "2": 2,
+                "3": 2,
+                "4": 3
+            },
+            "vincere buoni": {
+                "1": 0,
+                "2": 1,
+                "3": 0,
+                "4": 6
+            },
+            "tema settimanale": {
+                "1": 0,
+                "2": 1,
+                "3": 2,
+                "4": 4
+            },
+            "consigli": [
+                "Aggiungerei molte immagini per rendere più interattivo il quiz e l'applicazione "
+            ]
+        }
+    },
+    "18-25": {
+        "Maschio": {
+            "# intervistati": 104,
+            "# visite annue": {
+                "0": 8,
+                "1-2": 43,
+                "3-5": 35,
+                "piú di 5": 18
+            },
+            "occasioni visite": {
+                "viaggio": 69,
+                "weekend": 42,
+                "festivita'": 34,
+                "ferie": 21,
+                "altro": [
+                    "Quando capita",
+                    "Quando c’è una particolare mostra che mi interessa",
+                    "Quando c’è una particolare mostra che mi interessa",
+                    "quando mi va"
+                ]
+            },
+            "canali informativi": {
+                "publicita'": 37,
+                "internet": 44,
+                "social network": 53,
+                "passaparola": 72,
+                "altro": [
+                    "giro per la città e basta",
+                    "quando vedo qualcosa di interessante se posso entrare entro.",
+                    "Attraverso dépliant presso i luoghi che visito o frequento"
+                ]
+            },
+            "influenza Covid-19": {
+                "Per nulla": 9,
+                "Poco": 11,
+                "Abbastanza": 29,
+                "Molto": 55
+            },
+            "demotivazioni visite": {
+                "distanza": 48,
+                "prezzo": 34,
+                "disinteresse": 24,
+                "tempo": 70,
+                "compagnia": 29,
+                "niente": 4,
+                "altro": [
+                    "Covid-19",
+                    "Altre priorità",
+                    "covid",
+                    "Coviddi",
+                    "Rischio di contagio",
+                    "Altre priorità",
+                    "A Roma molte opere sono esposte in chiese etc con ingresso gratuito"
+                ]
+            },
+            "scaricato app arte": {
+                "Si": 20,
+                "No": 84
+            },
+            "giocatore di quiz": {
+                "Sì": 90,
+                "No": 14
+            },
+            "motivazioni download app quiz": {
+                "Cultura personale": 35,
+                "Spirito di competizione": 34,
+                "Sfidare i tuoi amici": 55,
+                "Vincere premi": 13,
+                "Passatempo": 64,
+                "altro": []
+            },
+            "utilita' quiz": {
+                "1": 8,
+                "2": 23,
+                "3": 36,
+                "4": 23
+            },
+            "app conosciute": {
+                "Quiz duello": 69,
+                "Trivia Crack": 77,
+                "Live Quiz": 43,
+                "altro": [
+                    "imagzle"
+                ]
+            },
+            "motivazioni NON download app quiz": {
+                "mai avuto occasione": 2,
+                "disinteresse": 12,
+                "assenza premi": 0,
+                "incapacita'": 0,
+                "altro": []
+            },
+            "parere app quiz tema arte": {
+                "use & talk": 53,
+                "NOTuse & talk": 29,
+                "NOTuse & NOTtalk": 16,
+                "altro": [
+                    "Forse la scaricherei ",
+                    "Dipende se l'app risulta \"interessante\"",
+                    "Dipende da quanto è utile e ben fatta l'app stessa",
+                    "solo incentrata su quiz no, magari con qualche descrizione sul luogo utilizzato per le domande si! ",
+                    "dipende da quanto è ben fatta e interessante",
+                    "La proverei se la coniugazione e grafica sono allettanti"
+                ]
+            },
+            "bacheca informativa": {
+                "1": 12,
+                "2": 11,
+                "3": 39,
+                "4": 42
+            },
+            "curiosita'": {
+                "1": 3,
+                "2": 9,
+                "3": 40,
+                "4": 52
+            },
+            "classifica": {
+                "1": 12,
+                "2": 23,
+                "3": 31,
+                "4": 38
+            },
+            "vincere buoni": {
+                "1": 3,
+                "2": 7,
+                "3": 27,
+                "4": 67
+            },
+            "tema settimanale": {
+                "1": 6,
+                "2": 15,
+                "3": 44,
+                "4": 39
+            },
+            "consigli": [
+                "Nessuno in particolare",
+                "Idea originale e con potenzialità, da approfondire e sviluppare bene",
+                "Metteteci più gnagna",
+                "la continua interruzione di pubblicità da molto fastidio, poi sarebbe fico se fosse per i beni culturali di tutto il mondo e anche di avere la possibilità di andare nello specifico nelle città..e basta per il resto sarebbe fico ",
+                "L'idea è carina, originale nel suo genere ma deve essere ben pubblicizzata,magari dalla PA",
+                "Gaetano é troppo fregno ",
+                "Magari, nell'eventualità di una funzionalità competitiva, si potrebbe prevedere un meccanismo di accoppiamento dei giocatori basata su un sistema di punteggi che permette di giocare contro giocatori che hanno più o meno lo \"stesso livello\" e non \"troppo forti\" o \"troppo deboli\"",
+                "perfetto"
+            ]
+        },
+        "Femmina": {
+            "# intervistati": 52,
+            "# visite annue": {
+                "0": 1,
+                "1-2": 27,
+                "3-5": 12,
+                "piú di 5": 12
+            },
+            "occasioni visite": {
+                "viaggio": 40,
+                "weekend": 28,
+                "festivita'": 15,
+                "ferie": 13,
+                "altro": [
+                    "In qualsiasi momento del mio tempo libero"
+                ]
+            },
+            "canali informativi": {
+                "publicita'": 25,
+                "internet": 11,
+                "social network": 35,
+                "passaparola": 34,
+                "altro": [
+                    "Tutte e 4 le opzioni",
+                    "Cerco di google"
+                ]
+            },
+            "influenza Covid-19": {
+                "Per nulla": 2,
+                "Poco": 5,
+                "Abbastanza": 15,
+                "Molto": 30
+            },
+            "demotivazioni visite": {
+                "distanza": 20,
+                "prezzo": 19,
+                "disinteresse": 3,
+                "tempo": 25,
+                "compagnia": 9,
+                "niente": 6,
+                "altro": [
+                    "L’utilizzo dei mezzi di trasporto che sono sempre affollati",
+                    "non rendendo sicuro il viaggio in questo periodo complicato",
+                    "La poca sicurezza dei mezzi pubblici",
+                    "Procrastinazione"
+                ]
+            },
+            "scaricato app arte": {
+                "Si": 20,
+                "No": 32
+            },
+            "giocatore di quiz": {
+                "Sì": 47,
+                "No": 5
+            },
+            "motivazioni download app quiz": {
+                "Cultura personale": 24,
+                "Spirito di competizione": 15,
+                "Sfidare i tuoi amici": 23,
+                "Vincere premi": 2,
+                "Passatempo": 40,
+                "altro": []
+            },
+            "utilita' quiz": {
+                "1": 1,
+                "2": 12,
+                "3": 24,
+                "4": 10
+            },
+            "app conosciute": {
+                "Quiz duello": 39,
+                "Trivia Crack": 42,
+                "Live Quiz": 16,
+                "altro": [
+                    "Quizland"
+                ]
+            },
+            "motivazioni NON download app quiz": {
+                "mai avuto occasione": 0,
+                "disinteresse": 5,
+                "assenza premi": 0,
+                "incapacita'": 0,
+                "altro": []
+            },
+            "parere app quiz tema arte": {
+                "use & talk": 42,
+                "NOTuse & talk": 6,
+                "NOTuse & NOTtalk": 2,
+                "altro": [
+                    "la scaricherei e se mi piacesse la consiglierei ",
+                    "La scaricherei, ma non la consiglierei. I miei amici non sono molto amanti dell'arte."
+                ]
+            },
+            "bacheca informativa": {
+                "1": 1,
+                "2": 7,
+                "3": 23,
+                "4": 21
+            },
+            "curiosita'": {
+                "1": 0,
+                "2": 1,
+                "3": 22,
+                "4": 29
+            },
+            "classifica": {
+                "1": 5,
+                "2": 14,
+                "3": 24,
+                "4": 9
+            },
+            "vincere buoni": {
+                "1": 0,
+                "2": 0,
+                "3": 10,
+                "4": 42
+            },
+            "tema settimanale": {
+                "1": 0,
+                "2": 4,
+                "3": 15,
+                "4": 33
+            },
+            "consigli": [
+                "Non so se possa essere preso come un consiglio ma io dividerei i beni culturali anche per periodi storici oppure categorie in modo che ognuno possa giocare ed interessarsi a quello che più preferisce",
+                "Nessuna",
+                "Ci avevo pensato anche io a sta cosa grandi ",
+                ".",
+                "Notifica + promemoria su calendario. Magari, il sistema a punteggio è basato su quante opere hai conquistato, per vedere il tuo livello di cultura"
+            ]
+        },
+        "Altro": {
+            "# intervistati": 1,
+            "# visite annue": {
+                "0": 1,
+                "1-2": 0,
+                "3-5": 0,
+                "piú di 5": 0
+            },
+            "occasioni visite": {
+                "viaggio": 0,
+                "weekend": 0,
+                "festivita'": 0,
+                "ferie": 0,
+                "altro": []
+            },
+            "canali informativi": {
+                "publicita'": 0,
+                "internet": 0,
+                "social network": 0,
+                "passaparola": 0,
+                "altro": []
+            },
+            "influenza Covid-19": {
+                "Per nulla": 1,
+                "Poco": 0,
+                "Abbastanza": 0,
+                "Molto": 0
+            },
+            "demotivazioni visite": {
+                "distanza": 0,
+                "prezzo": 0,
+                "disinteresse": 0,
+                "tempo": 1,
+                "compagnia": 0,
+                "niente": 0,
+                "altro": []
+            },
+            "scaricato app arte": {
+                "Si": 1,
+                "No": 0
+            },
+            "giocatore di quiz": {
+                "Sì": 1,
+                "No": 0
+            },
+            "motivazioni download app quiz": {
+                "Cultura personale": 0,
+                "Spirito di competizione": 0,
+                "Sfidare i tuoi amici": 0,
+                "Vincere premi": 0,
+                "Passatempo": 1,
+                "altro": []
+            },
+            "utilita' quiz": {
+                "1": 0,
+                "2": 1,
+                "3": 0,
+                "4": 0
+            },
+            "app conosciute": {
+                "Quiz duello": 1,
+                "Trivia Crack": 0,
+                "Live Quiz": 0,
+                "altro": []
+            },
+            "motivazioni NON download app quiz": {
+                "mai avuto occasione": 0,
+                "disinteresse": 0,
+                "assenza premi": 0,
+                "incapacita'": 0,
+                "altro": []
+            },
+            "parere app quiz tema arte": {
+                "use & talk": 0,
+                "NOTuse & talk": 1,
+                "NOTuse & NOTtalk": 0,
+                "altro": []
+            },
+            "bacheca informativa": {
+                "1": 0,
+                "2": 1,
+                "3": 0,
+                "4": 0
+            },
+            "curiosita'": {
+                "1": 0,
+                "2": 1,
+                "3": 0,
+                "4": 0
+            },
+            "classifica": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 0
+            },
+            "vincere buoni": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 1
+            },
+            "tema settimanale": {
+                "1": 0,
+                "2": 1,
+                "3": 0,
+                "4": 0
+            },
+            "consigli": []
+        },
+        "Generale": {
+            "# intervistati": 157,
+            "# visite annue": {
+                "0": 10,
+                "1-2": 70,
+                "3-5": 47,
+                "piú di 5": 30
+            },
+            "occasioni visite": {
+                "viaggio": 109,
+                "weekend": 70,
+                "festivita'": 49,
+                "ferie": 34,
+                "altro": [
+                    "Quando capita",
+                    "In qualsiasi momento del mio tempo libero",
+                    "Quando c’è una particolare mostra che mi interessa",
+                    "Quando c’è una particolare mostra che mi interessa",
+                    "quando mi va"
+                ]
+            },
+            "canali informativi": {
+                "publicita'": 62,
+                "internet": 55,
+                "social network": 88,
+                "passaparola": 106,
+                "altro": [
+                    "giro per la città e basta",
+                    "quando vedo qualcosa di interessante se posso entrare entro.",
+                    "Tutte e 4 le opzioni",
+                    "Cerco di google",
+                    "Attraverso dépliant presso i luoghi che visito o frequento"
+                ]
+            },
+            "influenza Covid-19": {
+                "Per nulla": 12,
+                "Poco": 16,
+                "Abbastanza": 44,
+                "Molto": 85
+            },
+            "demotivazioni visite": {
+                "distanza": 68,
+                "prezzo": 53,
+                "disinteresse": 27,
+                "tempo": 96,
+                "compagnia": 38,
+                "niente": 10,
+                "altro": [
+                    "L’utilizzo dei mezzi di trasporto che sono sempre affollati",
+                    "non rendendo sicuro il viaggio in questo periodo complicato",
+                    "Covid-19",
+                    "La poca sicurezza dei mezzi pubblici",
+                    "Altre priorità",
+                    "Procrastinazione",
+                    "covid",
+                    "Coviddi",
+                    "Rischio di contagio",
+                    "Altre priorità",
+                    "A Roma molte opere sono esposte in chiese etc con ingresso gratuito"
+                ]
+            },
+            "scaricato app arte": {
+                "Si": 41,
+                "No": 116
+            },
+            "giocatore di quiz": {
+                "Sì": 138,
+                "No": 19
+            },
+            "motivazioni download app quiz": {
+                "Cultura personale": 59,
+                "Spirito di competizione": 49,
+                "Sfidare i tuoi amici": 78,
+                "Vincere premi": 15,
+                "Passatempo": 105,
+                "altro": []
+            },
+            "utilita' quiz": {
+                "1": 9,
+                "2": 36,
+                "3": 60,
+                "4": 33
+            },
+            "app conosciute": {
+                "Quiz duello": 109,
+                "Trivia Crack": 119,
+                "Live Quiz": 59,
+                "altro": [
+                    "imagzle",
+                    "Quizland"
+                ]
+            },
+            "motivazioni NON download app quiz": {
+                "mai avuto occasione": 2,
+                "disinteresse": 17,
+                "assenza premi": 0,
+                "incapacita'": 0,
+                "altro": []
+            },
+            "parere app quiz tema arte": {
+                "use & talk": 95,
+                "NOTuse & talk": 36,
+                "NOTuse & NOTtalk": 18,
+                "altro": [
+                    "Forse la scaricherei ",
+                    "Dipende se l'app risulta \"interessante\"",
+                    "Dipende da quanto è utile e ben fatta l'app stessa",
+                    "solo incentrata su quiz no, magari con qualche descrizione sul luogo utilizzato per le domande si! ",
+                    "dipende da quanto è ben fatta e interessante",
+                    "la scaricherei e se mi piacesse la consiglierei ",
+                    "La scaricherei, ma non la consiglierei. I miei amici non sono molto amanti dell'arte.",
+                    "La proverei se la coniugazione e grafica sono allettanti"
+                ]
+            },
+            "bacheca informativa": {
+                "1": 13,
+                "2": 19,
+                "3": 62,
+                "4": 63
+            },
+            "curiosita'": {
+                "1": 3,
+                "2": 11,
+                "3": 62,
+                "4": 81
+            },
+            "classifica": {
+                "1": 17,
+                "2": 37,
+                "3": 56,
+                "4": 47
+            },
+            "vincere buoni": {
+                "1": 3,
+                "2": 7,
+                "3": 37,
+                "4": 110
+            },
+            "tema settimanale": {
+                "1": 6,
+                "2": 20,
+                "3": 59,
+                "4": 72
+            },
+            "consigli": [
+                "Nessuno in particolare",
+                "Non so se possa essere preso come un consiglio ma io dividerei i beni culturali anche per periodi storici oppure categorie in modo che ognuno possa giocare ed interessarsi a quello che più preferisce",
+                "Idea originale e con potenzialità, da approfondire e sviluppare bene",
+                "Nessuna",
+                "Metteteci più gnagna",
+                "Ci avevo pensato anche io a sta cosa grandi ",
+                ".",
+                "Notifica + promemoria su calendario. Magari, il sistema a punteggio è basato su quante opere hai conquistato, per vedere il tuo livello di cultura",
+                "la continua interruzione di pubblicità da molto fastidio, poi sarebbe fico se fosse per i beni culturali di tutto il mondo e anche di avere la possibilità di andare nello specifico nelle città..e basta per il resto sarebbe fico ",
+                "L'idea è carina, originale nel suo genere ma deve essere ben pubblicizzata,magari dalla PA",
+                "Gaetano é troppo fregno ",
+                "Magari, nell'eventualità di una funzionalità competitiva, si potrebbe prevedere un meccanismo di accoppiamento dei giocatori basata su un sistema di punteggi che permette di giocare contro giocatori che hanno più o meno lo \"stesso livello\" e non \"troppo forti\" o \"troppo deboli\"",
+                "perfetto"
+            ]
+        }
+    },
+    "26-35": {
+        "Maschio": {
+            "# intervistati": 20,
+            "# visite annue": {
+                "0": 2,
+                "1-2": 11,
+                "3-5": 4,
+                "piú di 5": 3
+            },
+            "occasioni visite": {
+                "viaggio": 15,
+                "weekend": 9,
+                "festivita'": 4,
+                "ferie": 8,
+                "altro": [
+                    "Serate/pomeriggi infrasettimanali"
+                ]
+            },
+            "canali informativi": {
+                "publicita'": 7,
+                "internet": 11,
+                "social network": 9,
+                "passaparola": 8,
+                "altro": [
+                    "guide turistiche"
+                ]
+            },
+            "influenza Covid-19": {
+                "Per nulla": 2,
+                "Poco": 1,
+                "Abbastanza": 6,
+                "Molto": 11
+            },
+            "demotivazioni visite": {
+                "distanza": 6,
+                "prezzo": 4,
+                "disinteresse": 6,
+                "tempo": 12,
+                "compagnia": 3,
+                "niente": 5,
+                "altro": [
+                    "Sono chiusi"
+                ]
+            },
+            "scaricato app arte": {
+                "Si": 3,
+                "No": 17
+            },
+            "giocatore di quiz": {
+                "Sì": 14,
+                "No": 6
+            },
+            "motivazioni download app quiz": {
+                "Cultura personale": 8,
+                "Spirito di competizione": 5,
+                "Sfidare i tuoi amici": 6,
+                "Vincere premi": 1,
+                "Passatempo": 11,
+                "altro": []
+            },
+            "utilita' quiz": {
+                "1": 2,
+                "2": 2,
+                "3": 5,
+                "4": 5
+            },
+            "app conosciute": {
+                "Quiz duello": 13,
+                "Trivia Crack": 9,
+                "Live Quiz": 7,
+                "altro": [
+                    "Dr. Why"
+                ]
+            },
+            "motivazioni NON download app quiz": {
+                "mai avuto occasione": 1,
+                "disinteresse": 3,
+                "assenza premi": 0,
+                "incapacita'": 0,
+                "altro": [
+                    "non mi interessano i giochi",
+                    "Evito di giocare a telefono"
+                ]
+            },
+            "parere app quiz tema arte": {
+                "use & talk": 10,
+                "NOTuse & talk": 6,
+                "NOTuse & NOTtalk": 3,
+                "altro": [
+                    "Mi informerei prima di scaricarla e/o consigliarla "
+                ]
+            },
+            "bacheca informativa": {
+                "1": 3,
+                "2": 4,
+                "3": 5,
+                "4": 8
+            },
+            "curiosita'": {
+                "1": 3,
+                "2": 2,
+                "3": 8,
+                "4": 7
+            },
+            "classifica": {
+                "1": 6,
+                "2": 3,
+                "3": 5,
+                "4": 6
+            },
+            "vincere buoni": {
+                "1": 2,
+                "2": 1,
+                "3": 6,
+                "4": 11
+            },
+            "tema settimanale": {
+                "1": 4,
+                "2": 1,
+                "3": 9,
+                "4": 6
+            },
+            "consigli": [
+                "Mmm no"
+            ]
+        },
+        "Femmina": {
+            "# intervistati": 14,
+            "# visite annue": {
+                "0": 1,
+                "1-2": 5,
+                "3-5": 6,
+                "piú di 5": 2
+            },
+            "occasioni visite": {
+                "viaggio": 10,
+                "weekend": 11,
+                "festivita'": 3,
+                "ferie": 4,
+                "altro": [
+                    "Quando c’è una mostra che mi interessa"
+                ]
+            },
+            "canali informativi": {
+                "publicita'": 8,
+                "internet": 10,
+                "social network": 6,
+                "passaparola": 4,
+                "altro": []
+            },
+            "influenza Covid-19": {
+                "Per nulla": 1,
+                "Poco": 0,
+                "Abbastanza": 2,
+                "Molto": 11
+            },
+            "demotivazioni visite": {
+                "distanza": 2,
+                "prezzo": 7,
+                "disinteresse": 1,
+                "tempo": 3,
+                "compagnia": 2,
+                "niente": 1,
+                "altro": []
+            },
+            "scaricato app arte": {
+                "Si": 6,
+                "No": 8
+            },
+            "giocatore di quiz": {
+                "Sì": 12,
+                "No": 2
+            },
+            "motivazioni download app quiz": {
+                "Cultura personale": 7,
+                "Spirito di competizione": 5,
+                "Sfidare i tuoi amici": 3,
+                "Vincere premi": 1,
+                "Passatempo": 8,
+                "altro": []
+            },
+            "utilita' quiz": {
+                "1": 0,
+                "2": 1,
+                "3": 7,
+                "4": 4
+            },
+            "app conosciute": {
+                "Quiz duello": 6,
+                "Trivia Crack": 8,
+                "Live Quiz": 4,
+                "altro": []
+            },
+            "motivazioni NON download app quiz": {
+                "mai avuto occasione": 2,
+                "disinteresse": 0,
+                "assenza premi": 0,
+                "incapacita'": 0,
+                "altro": []
+            },
+            "parere app quiz tema arte": {
+                "use & talk": 14,
+                "NOTuse & talk": 0,
+                "NOTuse & NOTtalk": 0,
+                "altro": []
+            },
+            "bacheca informativa": {
+                "1": 0,
+                "2": 1,
+                "3": 1,
+                "4": 12
+            },
+            "curiosita'": {
+                "1": 0,
+                "2": 0,
+                "3": 3,
+                "4": 11
+            },
+            "classifica": {
+                "1": 1,
+                "2": 3,
+                "3": 6,
+                "4": 4
+            },
+            "vincere buoni": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 13
+            },
+            "tema settimanale": {
+                "1": 0,
+                "2": 0,
+                "3": 6,
+                "4": 8
+            },
+            "consigli": [
+                "Integrare l’App con un sistema di scontistica ricorrente (es. Settimanale, mensile)",
+                "Integrare l’App con un sistema di scontistica ricorrente (es. Settimanale, mensile)"
+            ]
+        },
+        "Altro": {
+            "# intervistati": 0,
+            "# visite annue": {
+                "0": 0,
+                "1-2": 0,
+                "3-5": 0,
+                "piú di 5": 0
+            },
+            "occasioni visite": {
+                "viaggio": 0,
+                "weekend": 0,
+                "festivita'": 0,
+                "ferie": 0,
+                "altro": []
+            },
+            "canali informativi": {
+                "publicita'": 0,
+                "internet": 0,
+                "social network": 0,
+                "passaparola": 0,
+                "altro": []
+            },
+            "influenza Covid-19": {
+                "Per nulla": 0,
+                "Poco": 0,
+                "Abbastanza": 0,
+                "Molto": 0
+            },
+            "demotivazioni visite": {
+                "distanza": 0,
+                "prezzo": 0,
+                "disinteresse": 0,
+                "tempo": 0,
+                "compagnia": 0,
+                "niente": 0,
+                "altro": []
+            },
+            "scaricato app arte": {
+                "Si": 0,
+                "No": 0
+            },
+            "giocatore di quiz": {
+                "Sì": 0,
+                "No": 0
+            },
+            "motivazioni download app quiz": {
+                "Cultura personale": 0,
+                "Spirito di competizione": 0,
+                "Sfidare i tuoi amici": 0,
+                "Vincere premi": 0,
+                "Passatempo": 0,
+                "altro": []
+            },
+            "utilita' quiz": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "app conosciute": {
+                "Quiz duello": 0,
+                "Trivia Crack": 0,
+                "Live Quiz": 0,
+                "altro": []
+            },
+            "motivazioni NON download app quiz": {
+                "mai avuto occasione": 0,
+                "disinteresse": 0,
+                "assenza premi": 0,
+                "incapacita'": 0,
+                "altro": []
+            },
+            "parere app quiz tema arte": {
+                "use & talk": 0,
+                "NOTuse & talk": 0,
+                "NOTuse & NOTtalk": 0,
+                "altro": []
+            },
+            "bacheca informativa": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "curiosita'": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "classifica": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "vincere buoni": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "tema settimanale": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "consigli": []
+        },
+        "Generale": {
+            "# intervistati": 34,
+            "# visite annue": {
+                "0": 3,
+                "1-2": 16,
+                "3-5": 10,
+                "piú di 5": 5
+            },
+            "occasioni visite": {
+                "viaggio": 25,
+                "weekend": 20,
+                "festivita'": 7,
+                "ferie": 12,
+                "altro": [
+                    "Serate/pomeriggi infrasettimanali",
+                    "Quando c’è una mostra che mi interessa"
+                ]
+            },
+            "canali informativi": {
+                "publicita'": 15,
+                "internet": 21,
+                "social network": 15,
+                "passaparola": 12,
+                "altro": [
+                    "guide turistiche"
+                ]
+            },
+            "influenza Covid-19": {
+                "Per nulla": 3,
+                "Poco": 1,
+                "Abbastanza": 8,
+                "Molto": 22
+            },
+            "demotivazioni visite": {
+                "distanza": 8,
+                "prezzo": 11,
+                "disinteresse": 7,
+                "tempo": 15,
+                "compagnia": 5,
+                "niente": 6,
+                "altro": [
+                    "Sono chiusi"
+                ]
+            },
+            "scaricato app arte": {
+                "Si": 9,
+                "No": 25
+            },
+            "giocatore di quiz": {
+                "Sì": 26,
+                "No": 8
+            },
+            "motivazioni download app quiz": {
+                "Cultura personale": 15,
+                "Spirito di competizione": 10,
+                "Sfidare i tuoi amici": 9,
+                "Vincere premi": 2,
+                "Passatempo": 19,
+                "altro": []
+            },
+            "utilita' quiz": {
+                "1": 2,
+                "2": 3,
+                "3": 12,
+                "4": 9
+            },
+            "app conosciute": {
+                "Quiz duello": 19,
+                "Trivia Crack": 17,
+                "Live Quiz": 11,
+                "altro": [
+                    "Dr. Why"
+                ]
+            },
+            "motivazioni NON download app quiz": {
+                "mai avuto occasione": 3,
+                "disinteresse": 3,
+                "assenza premi": 0,
+                "incapacita'": 0,
+                "altro": [
+                    "non mi interessano i giochi",
+                    "Evito di giocare a telefono"
+                ]
+            },
+            "parere app quiz tema arte": {
+                "use & talk": 24,
+                "NOTuse & talk": 6,
+                "NOTuse & NOTtalk": 3,
+                "altro": [
+                    "Mi informerei prima di scaricarla e/o consigliarla "
+                ]
+            },
+            "bacheca informativa": {
+                "1": 3,
+                "2": 5,
+                "3": 6,
+                "4": 20
+            },
+            "curiosita'": {
+                "1": 3,
+                "2": 2,
+                "3": 11,
+                "4": 18
+            },
+            "classifica": {
+                "1": 7,
+                "2": 6,
+                "3": 11,
+                "4": 10
+            },
+            "vincere buoni": {
+                "1": 2,
+                "2": 1,
+                "3": 7,
+                "4": 24
+            },
+            "tema settimanale": {
+                "1": 4,
+                "2": 1,
+                "3": 15,
+                "4": 14
+            },
+            "consigli": [
+                "Integrare l’App con un sistema di scontistica ricorrente (es. Settimanale, mensile)",
+                "Integrare l’App con un sistema di scontistica ricorrente (es. Settimanale, mensile)",
+                "Mmm no"
+            ]
+        }
+    },
+    "36-45": {
+        "Maschio": {
+            "# intervistati": 0,
+            "# visite annue": {
+                "0": 0,
+                "1-2": 0,
+                "3-5": 0,
+                "piú di 5": 0
+            },
+            "occasioni visite": {
+                "viaggio": 0,
+                "weekend": 0,
+                "festivita'": 0,
+                "ferie": 0,
+                "altro": []
+            },
+            "canali informativi": {
+                "publicita'": 0,
+                "internet": 0,
+                "social network": 0,
+                "passaparola": 0,
+                "altro": []
+            },
+            "influenza Covid-19": {
+                "Per nulla": 0,
+                "Poco": 0,
+                "Abbastanza": 0,
+                "Molto": 0
+            },
+            "demotivazioni visite": {
+                "distanza": 0,
+                "prezzo": 0,
+                "disinteresse": 0,
+                "tempo": 0,
+                "compagnia": 0,
+                "niente": 0,
+                "altro": []
+            },
+            "scaricato app arte": {
+                "Si": 0,
+                "No": 0
+            },
+            "giocatore di quiz": {
+                "Sì": 0,
+                "No": 0
+            },
+            "motivazioni download app quiz": {
+                "Cultura personale": 0,
+                "Spirito di competizione": 0,
+                "Sfidare i tuoi amici": 0,
+                "Vincere premi": 0,
+                "Passatempo": 0,
+                "altro": []
+            },
+            "utilita' quiz": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "app conosciute": {
+                "Quiz duello": 0,
+                "Trivia Crack": 0,
+                "Live Quiz": 0,
+                "altro": []
+            },
+            "motivazioni NON download app quiz": {
+                "mai avuto occasione": 0,
+                "disinteresse": 0,
+                "assenza premi": 0,
+                "incapacita'": 0,
+                "altro": []
+            },
+            "parere app quiz tema arte": {
+                "use & talk": 0,
+                "NOTuse & talk": 0,
+                "NOTuse & NOTtalk": 0,
+                "altro": []
+            },
+            "bacheca informativa": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "curiosita'": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "classifica": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "vincere buoni": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "tema settimanale": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "consigli": []
+        },
+        "Femmina": {
+            "# intervistati": 2,
+            "# visite annue": {
+                "0": 0,
+                "1-2": 2,
+                "3-5": 0,
+                "piú di 5": 0
+            },
+            "occasioni visite": {
+                "viaggio": 1,
+                "weekend": 1,
+                "festivita'": 0,
+                "ferie": 0,
+                "altro": []
+            },
+            "canali informativi": {
+                "publicita'": 0,
+                "internet": 1,
+                "social network": 1,
+                "passaparola": 0,
+                "altro": []
+            },
+            "influenza Covid-19": {
+                "Per nulla": 0,
+                "Poco": 0,
+                "Abbastanza": 0,
+                "Molto": 2
+            },
+            "demotivazioni visite": {
+                "distanza": 0,
+                "prezzo": 0,
+                "disinteresse": 0,
+                "tempo": 0,
+                "compagnia": 1,
+                "niente": 0,
+                "altro": [
+                    "Paura"
+                ]
+            },
+            "scaricato app arte": {
+                "Si": 0,
+                "No": 2
+            },
+            "giocatore di quiz": {
+                "Sì": 1,
+                "No": 1
+            },
+            "motivazioni download app quiz": {
+                "Cultura personale": 1,
+                "Spirito di competizione": 0,
+                "Sfidare i tuoi amici": 0,
+                "Vincere premi": 0,
+                "Passatempo": 0,
+                "altro": []
+            },
+            "utilita' quiz": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 0
+            },
+            "app conosciute": {
+                "Quiz duello": 0,
+                "Trivia Crack": 1,
+                "Live Quiz": 0,
+                "altro": []
+            },
+            "motivazioni NON download app quiz": {
+                "mai avuto occasione": 0,
+                "disinteresse": 1,
+                "assenza premi": 0,
+                "incapacita'": 0,
+                "altro": []
+            },
+            "parere app quiz tema arte": {
+                "use & talk": 2,
+                "NOTuse & talk": 0,
+                "NOTuse & NOTtalk": 0,
+                "altro": []
+            },
+            "bacheca informativa": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            },
+            "curiosita'": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            },
+            "classifica": {
+                "1": 0,
+                "2": 1,
+                "3": 0,
+                "4": 1
+            },
+            "vincere buoni": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 2
+            },
+            "tema settimanale": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            },
+            "consigli": []
+        },
+        "Altro": {
+            "# intervistati": 0,
+            "# visite annue": {
+                "0": 0,
+                "1-2": 0,
+                "3-5": 0,
+                "piú di 5": 0
+            },
+            "occasioni visite": {
+                "viaggio": 0,
+                "weekend": 0,
+                "festivita'": 0,
+                "ferie": 0,
+                "altro": []
+            },
+            "canali informativi": {
+                "publicita'": 0,
+                "internet": 0,
+                "social network": 0,
+                "passaparola": 0,
+                "altro": []
+            },
+            "influenza Covid-19": {
+                "Per nulla": 0,
+                "Poco": 0,
+                "Abbastanza": 0,
+                "Molto": 0
+            },
+            "demotivazioni visite": {
+                "distanza": 0,
+                "prezzo": 0,
+                "disinteresse": 0,
+                "tempo": 0,
+                "compagnia": 0,
+                "niente": 0,
+                "altro": []
+            },
+            "scaricato app arte": {
+                "Si": 0,
+                "No": 0
+            },
+            "giocatore di quiz": {
+                "Sì": 0,
+                "No": 0
+            },
+            "motivazioni download app quiz": {
+                "Cultura personale": 0,
+                "Spirito di competizione": 0,
+                "Sfidare i tuoi amici": 0,
+                "Vincere premi": 0,
+                "Passatempo": 0,
+                "altro": []
+            },
+            "utilita' quiz": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "app conosciute": {
+                "Quiz duello": 0,
+                "Trivia Crack": 0,
+                "Live Quiz": 0,
+                "altro": []
+            },
+            "motivazioni NON download app quiz": {
+                "mai avuto occasione": 0,
+                "disinteresse": 0,
+                "assenza premi": 0,
+                "incapacita'": 0,
+                "altro": []
+            },
+            "parere app quiz tema arte": {
+                "use & talk": 0,
+                "NOTuse & talk": 0,
+                "NOTuse & NOTtalk": 0,
+                "altro": []
+            },
+            "bacheca informativa": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "curiosita'": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "classifica": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "vincere buoni": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "tema settimanale": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "consigli": []
+        },
+        "Generale": {
+            "# intervistati": 2,
+            "# visite annue": {
+                "0": 0,
+                "1-2": 2,
+                "3-5": 0,
+                "piú di 5": 0
+            },
+            "occasioni visite": {
+                "viaggio": 1,
+                "weekend": 1,
+                "festivita'": 0,
+                "ferie": 0,
+                "altro": []
+            },
+            "canali informativi": {
+                "publicita'": 0,
+                "internet": 1,
+                "social network": 1,
+                "passaparola": 0,
+                "altro": []
+            },
+            "influenza Covid-19": {
+                "Per nulla": 0,
+                "Poco": 0,
+                "Abbastanza": 0,
+                "Molto": 2
+            },
+            "demotivazioni visite": {
+                "distanza": 0,
+                "prezzo": 0,
+                "disinteresse": 0,
+                "tempo": 0,
+                "compagnia": 1,
+                "niente": 0,
+                "altro": [
+                    "Paura"
+                ]
+            },
+            "scaricato app arte": {
+                "Si": 0,
+                "No": 2
+            },
+            "giocatore di quiz": {
+                "Sì": 1,
+                "No": 1
+            },
+            "motivazioni download app quiz": {
+                "Cultura personale": 1,
+                "Spirito di competizione": 0,
+                "Sfidare i tuoi amici": 0,
+                "Vincere premi": 0,
+                "Passatempo": 0,
+                "altro": []
+            },
+            "utilita' quiz": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 0
+            },
+            "app conosciute": {
+                "Quiz duello": 0,
+                "Trivia Crack": 1,
+                "Live Quiz": 0,
+                "altro": []
+            },
+            "motivazioni NON download app quiz": {
+                "mai avuto occasione": 0,
+                "disinteresse": 1,
+                "assenza premi": 0,
+                "incapacita'": 0,
+                "altro": []
+            },
+            "parere app quiz tema arte": {
+                "use & talk": 2,
+                "NOTuse & talk": 0,
+                "NOTuse & NOTtalk": 0,
+                "altro": []
+            },
+            "bacheca informativa": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            },
+            "curiosita'": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            },
+            "classifica": {
+                "1": 0,
+                "2": 1,
+                "3": 0,
+                "4": 1
+            },
+            "vincere buoni": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 2
+            },
+            "tema settimanale": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            },
+            "consigli": []
+        }
+    },
+    "46-55": {
+        "Maschio": {
+            "# intervistati": 6,
+            "# visite annue": {
+                "0": 0,
+                "1-2": 1,
+                "3-5": 4,
+                "piú di 5": 1
+            },
+            "occasioni visite": {
+                "viaggio": 2,
+                "weekend": 2,
+                "festivita'": 0,
+                "ferie": 5,
+                "altro": []
+            },
+            "canali informativi": {
+                "publicita'": 3,
+                "internet": 4,
+                "social network": 0,
+                "passaparola": 2,
+                "altro": [
+                    "uffici turismo locali"
+                ]
+            },
+            "influenza Covid-19": {
+                "Per nulla": 0,
+                "Poco": 0,
+                "Abbastanza": 1,
+                "Molto": 5
+            },
+            "demotivazioni visite": {
+                "distanza": 4,
+                "prezzo": 3,
+                "disinteresse": 0,
+                "tempo": 1,
+                "compagnia": 1,
+                "niente": 0,
+                "altro": [
+                    "A volte vengo a conoscenza di mostre o eventi che mi interessavano quando son già conclusi"
+                ]
+            },
+            "scaricato app arte": {
+                "Si": 3,
+                "No": 3
+            },
+            "giocatore di quiz": {
+                "Sì": 3,
+                "No": 3
+            },
+            "motivazioni download app quiz": {
+                "Cultura personale": 1,
+                "Spirito di competizione": 0,
+                "Sfidare i tuoi amici": 0,
+                "Vincere premi": 0,
+                "Passatempo": 3,
+                "altro": [
+                    "verificare il livello delle mie conoscenze"
+                ]
+            },
+            "utilita' quiz": {
+                "1": 1,
+                "2": 2,
+                "3": 0,
+                "4": 0
+            },
+            "app conosciute": {
+                "Quiz duello": 1,
+                "Trivia Crack": 1,
+                "Live Quiz": 0,
+                "altro": [
+                    "quiz di cultura generale"
+                ]
+            },
+            "motivazioni NON download app quiz": {
+                "mai avuto occasione": 0,
+                "disinteresse": 3,
+                "assenza premi": 0,
+                "incapacita'": 0,
+                "altro": []
+            },
+            "parere app quiz tema arte": {
+                "use & talk": 3,
+                "NOTuse & talk": 3,
+                "NOTuse & NOTtalk": 0,
+                "altro": []
+            },
+            "bacheca informativa": {
+                "1": 0,
+                "2": 0,
+                "3": 4,
+                "4": 2
+            },
+            "curiosita'": {
+                "1": 0,
+                "2": 2,
+                "3": 2,
+                "4": 2
+            },
+            "classifica": {
+                "1": 0,
+                "2": 2,
+                "3": 4,
+                "4": 0
+            },
+            "vincere buoni": {
+                "1": 0,
+                "2": 1,
+                "3": 2,
+                "4": 3
+            },
+            "tema settimanale": {
+                "1": 1,
+                "2": 1,
+                "3": 3,
+                "4": 1
+            },
+            "consigli": []
+        },
+        "Femmina": {
+            "# intervistati": 17,
+            "# visite annue": {
+                "0": 0,
+                "1-2": 7,
+                "3-5": 4,
+                "piú di 5": 6
+            },
+            "occasioni visite": {
+                "viaggio": 11,
+                "weekend": 9,
+                "festivita'": 2,
+                "ferie": 7,
+                "altro": [
+                    "In orario di lavoro",
+                    "da insegnante"
+                ]
+            },
+            "canali informativi": {
+                "publicita'": 7,
+                "internet": 8,
+                "social network": 7,
+                "passaparola": 7,
+                "altro": []
+            },
+            "influenza Covid-19": {
+                "Per nulla": 0,
+                "Poco": 2,
+                "Abbastanza": 8,
+                "Molto": 7
+            },
+            "demotivazioni visite": {
+                "distanza": 6,
+                "prezzo": 1,
+                "disinteresse": 0,
+                "tempo": 7,
+                "compagnia": 2,
+                "niente": 2,
+                "altro": [
+                    "Difficoltà con bambini piccoli"
+                ]
+            },
+            "scaricato app arte": {
+                "Si": 8,
+                "No": 9
+            },
+            "giocatore di quiz": {
+                "Sì": 5,
+                "No": 12
+            },
+            "motivazioni download app quiz": {
+                "Cultura personale": 2,
+                "Spirito di competizione": 0,
+                "Sfidare i tuoi amici": 1,
+                "Vincere premi": 1,
+                "Passatempo": 3,
+                "altro": []
+            },
+            "utilita' quiz": {
+                "1": 0,
+                "2": 2,
+                "3": 2,
+                "4": 1
+            },
+            "app conosciute": {
+                "Quiz duello": 3,
+                "Trivia Crack": 1,
+                "Live Quiz": 1,
+                "altro": []
+            },
+            "motivazioni NON download app quiz": {
+                "mai avuto occasione": 3,
+                "disinteresse": 9,
+                "assenza premi": 0,
+                "incapacita'": 0,
+                "altro": []
+            },
+            "parere app quiz tema arte": {
+                "use & talk": 11,
+                "NOTuse & talk": 2,
+                "NOTuse & NOTtalk": 4,
+                "altro": []
+            },
+            "bacheca informativa": {
+                "1": 0,
+                "2": 0,
+                "3": 6,
+                "4": 11
+            },
+            "curiosita'": {
+                "1": 3,
+                "2": 2,
+                "3": 4,
+                "4": 8
+            },
+            "classifica": {
+                "1": 3,
+                "2": 4,
+                "3": 8,
+                "4": 2
+            },
+            "vincere buoni": {
+                "1": 2,
+                "2": 0,
+                "3": 4,
+                "4": 11
+            },
+            "tema settimanale": {
+                "1": 1,
+                "2": 3,
+                "3": 4,
+                "4": 9
+            },
+            "consigli": []
+        },
+        "Altro": {
+            "# intervistati": 0,
+            "# visite annue": {
+                "0": 0,
+                "1-2": 0,
+                "3-5": 0,
+                "piú di 5": 0
+            },
+            "occasioni visite": {
+                "viaggio": 0,
+                "weekend": 0,
+                "festivita'": 0,
+                "ferie": 0,
+                "altro": []
+            },
+            "canali informativi": {
+                "publicita'": 0,
+                "internet": 0,
+                "social network": 0,
+                "passaparola": 0,
+                "altro": []
+            },
+            "influenza Covid-19": {
+                "Per nulla": 0,
+                "Poco": 0,
+                "Abbastanza": 0,
+                "Molto": 0
+            },
+            "demotivazioni visite": {
+                "distanza": 0,
+                "prezzo": 0,
+                "disinteresse": 0,
+                "tempo": 0,
+                "compagnia": 0,
+                "niente": 0,
+                "altro": []
+            },
+            "scaricato app arte": {
+                "Si": 0,
+                "No": 0
+            },
+            "giocatore di quiz": {
+                "Sì": 0,
+                "No": 0
+            },
+            "motivazioni download app quiz": {
+                "Cultura personale": 0,
+                "Spirito di competizione": 0,
+                "Sfidare i tuoi amici": 0,
+                "Vincere premi": 0,
+                "Passatempo": 0,
+                "altro": []
+            },
+            "utilita' quiz": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "app conosciute": {
+                "Quiz duello": 0,
+                "Trivia Crack": 0,
+                "Live Quiz": 0,
+                "altro": []
+            },
+            "motivazioni NON download app quiz": {
+                "mai avuto occasione": 0,
+                "disinteresse": 0,
+                "assenza premi": 0,
+                "incapacita'": 0,
+                "altro": []
+            },
+            "parere app quiz tema arte": {
+                "use & talk": 0,
+                "NOTuse & talk": 0,
+                "NOTuse & NOTtalk": 0,
+                "altro": []
+            },
+            "bacheca informativa": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "curiosita'": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "classifica": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "vincere buoni": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "tema settimanale": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "consigli": []
+        },
+        "Generale": {
+            "# intervistati": 23,
+            "# visite annue": {
+                "0": 0,
+                "1-2": 8,
+                "3-5": 8,
+                "piú di 5": 7
+            },
+            "occasioni visite": {
+                "viaggio": 13,
+                "weekend": 11,
+                "festivita'": 2,
+                "ferie": 12,
+                "altro": [
+                    "In orario di lavoro",
+                    "da insegnante"
+                ]
+            },
+            "canali informativi": {
+                "publicita'": 10,
+                "internet": 12,
+                "social network": 7,
+                "passaparola": 9,
+                "altro": [
+                    "uffici turismo locali"
+                ]
+            },
+            "influenza Covid-19": {
+                "Per nulla": 0,
+                "Poco": 2,
+                "Abbastanza": 9,
+                "Molto": 12
+            },
+            "demotivazioni visite": {
+                "distanza": 10,
+                "prezzo": 4,
+                "disinteresse": 0,
+                "tempo": 8,
+                "compagnia": 3,
+                "niente": 2,
+                "altro": [
+                    "A volte vengo a conoscenza di mostre o eventi che mi interessavano quando son già conclusi",
+                    "Difficoltà con bambini piccoli"
+                ]
+            },
+            "scaricato app arte": {
+                "Si": 11,
+                "No": 12
+            },
+            "giocatore di quiz": {
+                "Sì": 8,
+                "No": 15
+            },
+            "motivazioni download app quiz": {
+                "Cultura personale": 3,
+                "Spirito di competizione": 0,
+                "Sfidare i tuoi amici": 1,
+                "Vincere premi": 1,
+                "Passatempo": 6,
+                "altro": [
+                    "verificare il livello delle mie conoscenze"
+                ]
+            },
+            "utilita' quiz": {
+                "1": 1,
+                "2": 4,
+                "3": 2,
+                "4": 1
+            },
+            "app conosciute": {
+                "Quiz duello": 4,
+                "Trivia Crack": 2,
+                "Live Quiz": 1,
+                "altro": [
+                    "quiz di cultura generale"
+                ]
+            },
+            "motivazioni NON download app quiz": {
+                "mai avuto occasione": 3,
+                "disinteresse": 12,
+                "assenza premi": 0,
+                "incapacita'": 0,
+                "altro": []
+            },
+            "parere app quiz tema arte": {
+                "use & talk": 14,
+                "NOTuse & talk": 5,
+                "NOTuse & NOTtalk": 4,
+                "altro": []
+            },
+            "bacheca informativa": {
+                "1": 0,
+                "2": 0,
+                "3": 10,
+                "4": 13
+            },
+            "curiosita'": {
+                "1": 3,
+                "2": 4,
+                "3": 6,
+                "4": 10
+            },
+            "classifica": {
+                "1": 3,
+                "2": 6,
+                "3": 12,
+                "4": 2
+            },
+            "vincere buoni": {
+                "1": 2,
+                "2": 1,
+                "3": 6,
+                "4": 14
+            },
+            "tema settimanale": {
+                "1": 2,
+                "2": 4,
+                "3": 7,
+                "4": 10
+            },
+            "consigli": []
+        }
+    },
+    "Oltre 55": {
+        "Maschio": {
+            "# intervistati": 18,
+            "# visite annue": {
+                "0": 0,
+                "1-2": 4,
+                "3-5": 9,
+                "piú di 5": 5
+            },
+            "occasioni visite": {
+                "viaggio": 12,
+                "weekend": 7,
+                "festivita'": 1,
+                "ferie": 8,
+                "altro": []
+            },
+            "canali informativi": {
+                "publicita'": 4,
+                "internet": 13,
+                "social network": 4,
+                "passaparola": 10,
+                "altro": []
+            },
+            "influenza Covid-19": {
+                "Per nulla": 0,
+                "Poco": 0,
+                "Abbastanza": 5,
+                "Molto": 13
+            },
+            "demotivazioni visite": {
+                "distanza": 6,
+                "prezzo": 5,
+                "disinteresse": 2,
+                "tempo": 10,
+                "compagnia": 3,
+                "niente": 2,
+                "altro": []
+            },
+            "scaricato app arte": {
+                "Si": 10,
+                "No": 8
+            },
+            "giocatore di quiz": {
+                "Sì": 6,
+                "No": 12
+            },
+            "motivazioni download app quiz": {
+                "Cultura personale": 1,
+                "Spirito di competizione": 2,
+                "Sfidare i tuoi amici": 0,
+                "Vincere premi": 2,
+                "Passatempo": 4,
+                "altro": []
+            },
+            "utilita' quiz": {
+                "1": 0,
+                "2": 2,
+                "3": 3,
+                "4": 1
+            },
+            "app conosciute": {
+                "Quiz duello": 2,
+                "Trivia Crack": 1,
+                "Live Quiz": 3,
+                "altro": []
+            },
+            "motivazioni NON download app quiz": {
+                "mai avuto occasione": 0,
+                "disinteresse": 12,
+                "assenza premi": 0,
+                "incapacita'": 0,
+                "altro": []
+            },
+            "parere app quiz tema arte": {
+                "use & talk": 11,
+                "NOTuse & talk": 4,
+                "NOTuse & NOTtalk": 2,
+                "altro": [
+                    "Mi incuriosisce"
+                ]
+            },
+            "bacheca informativa": {
+                "1": 0,
+                "2": 3,
+                "3": 4,
+                "4": 11
+            },
+            "curiosita'": {
+                "1": 1,
+                "2": 5,
+                "3": 8,
+                "4": 4
+            },
+            "classifica": {
+                "1": 3,
+                "2": 7,
+                "3": 4,
+                "4": 4
+            },
+            "vincere buoni": {
+                "1": 2,
+                "2": 3,
+                "3": 4,
+                "4": 9
+            },
+            "tema settimanale": {
+                "1": 1,
+                "2": 7,
+                "3": 3,
+                "4": 7
+            },
+            "consigli": [
+                "Settimana un po' poco tempo per un tema",
+                "Svelare beni culturali poco noti"
+            ]
+        },
+        "Femmina": {
+            "# intervistati": 20,
+            "# visite annue": {
+                "0": 4,
+                "1-2": 5,
+                "3-5": 6,
+                "piú di 5": 5
+            },
+            "occasioni visite": {
+                "viaggio": 10,
+                "weekend": 7,
+                "festivita'": 2,
+                "ferie": 6,
+                "altro": [
+                    "Qualsiasi occasione"
+                ]
+            },
+            "canali informativi": {
+                "publicita'": 7,
+                "internet": 4,
+                "social network": 7,
+                "passaparola": 8,
+                "altro": []
+            },
+            "influenza Covid-19": {
+                "Per nulla": 0,
+                "Poco": 1,
+                "Abbastanza": 8,
+                "Molto": 11
+            },
+            "demotivazioni visite": {
+                "distanza": 9,
+                "prezzo": 2,
+                "disinteresse": 0,
+                "tempo": 7,
+                "compagnia": 2,
+                "niente": 4,
+                "altro": [
+                    "Attualmente la pandemia",
+                    "Paura di contagio"
+                ]
+            },
+            "scaricato app arte": {
+                "Si": 7,
+                "No": 13
+            },
+            "giocatore di quiz": {
+                "Sì": 4,
+                "No": 16
+            },
+            "motivazioni download app quiz": {
+                "Cultura personale": 2,
+                "Spirito di competizione": 0,
+                "Sfidare i tuoi amici": 0,
+                "Vincere premi": 0,
+                "Passatempo": 2,
+                "altro": []
+            },
+            "utilita' quiz": {
+                "1": 0,
+                "2": 1,
+                "3": 3,
+                "4": 0
+            },
+            "app conosciute": {
+                "Quiz duello": 1,
+                "Trivia Crack": 0,
+                "Live Quiz": 2,
+                "altro": [
+                    "V"
+                ]
+            },
+            "motivazioni NON download app quiz": {
+                "mai avuto occasione": 3,
+                "disinteresse": 12,
+                "assenza premi": 0,
+                "incapacita'": 1,
+                "altro": []
+            },
+            "parere app quiz tema arte": {
+                "use & talk": 10,
+                "NOTuse & talk": 7,
+                "NOTuse & NOTtalk": 3,
+                "altro": []
+            },
+            "bacheca informativa": {
+                "1": 2,
+                "2": 2,
+                "3": 5,
+                "4": 11
+            },
+            "curiosita'": {
+                "1": 5,
+                "2": 0,
+                "3": 9,
+                "4": 6
+            },
+            "classifica": {
+                "1": 7,
+                "2": 5,
+                "3": 7,
+                "4": 1
+            },
+            "vincere buoni": {
+                "1": 3,
+                "2": 2,
+                "3": 6,
+                "4": 9
+            },
+            "tema settimanale": {
+                "1": 3,
+                "2": 5,
+                "3": 6,
+                "4": 6
+            },
+            "consigli": [
+                "Ritengo interessante l'idea ma la vedo adatta ad un pubblico molto giovane",
+                "Ottima idea per i giovani ma poco costruttiva per noi vecchietti abituati al cartaceo "
+            ]
+        },
+        "Altro": {
+            "# intervistati": 0,
+            "# visite annue": {
+                "0": 0,
+                "1-2": 0,
+                "3-5": 0,
+                "piú di 5": 0
+            },
+            "occasioni visite": {
+                "viaggio": 0,
+                "weekend": 0,
+                "festivita'": 0,
+                "ferie": 0,
+                "altro": []
+            },
+            "canali informativi": {
+                "publicita'": 0,
+                "internet": 0,
+                "social network": 0,
+                "passaparola": 0,
+                "altro": []
+            },
+            "influenza Covid-19": {
+                "Per nulla": 0,
+                "Poco": 0,
+                "Abbastanza": 0,
+                "Molto": 0
+            },
+            "demotivazioni visite": {
+                "distanza": 0,
+                "prezzo": 0,
+                "disinteresse": 0,
+                "tempo": 0,
+                "compagnia": 0,
+                "niente": 0,
+                "altro": []
+            },
+            "scaricato app arte": {
+                "Si": 0,
+                "No": 0
+            },
+            "giocatore di quiz": {
+                "Sì": 0,
+                "No": 0
+            },
+            "motivazioni download app quiz": {
+                "Cultura personale": 0,
+                "Spirito di competizione": 0,
+                "Sfidare i tuoi amici": 0,
+                "Vincere premi": 0,
+                "Passatempo": 0,
+                "altro": []
+            },
+            "utilita' quiz": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "app conosciute": {
+                "Quiz duello": 0,
+                "Trivia Crack": 0,
+                "Live Quiz": 0,
+                "altro": []
+            },
+            "motivazioni NON download app quiz": {
+                "mai avuto occasione": 0,
+                "disinteresse": 0,
+                "assenza premi": 0,
+                "incapacita'": 0,
+                "altro": []
+            },
+            "parere app quiz tema arte": {
+                "use & talk": 0,
+                "NOTuse & talk": 0,
+                "NOTuse & NOTtalk": 0,
+                "altro": []
+            },
+            "bacheca informativa": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "curiosita'": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "classifica": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "vincere buoni": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "tema settimanale": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+            },
+            "consigli": []
+        },
+        "Generale": {
+            "# intervistati": 38,
+            "# visite annue": {
+                "0": 4,
+                "1-2": 9,
+                "3-5": 15,
+                "piú di 5": 10
+            },
+            "occasioni visite": {
+                "viaggio": 22,
+                "weekend": 14,
+                "festivita'": 3,
+                "ferie": 14,
+                "altro": [
+                    "Qualsiasi occasione"
+                ]
+            },
+            "canali informativi": {
+                "publicita'": 11,
+                "internet": 17,
+                "social network": 11,
+                "passaparola": 18,
+                "altro": []
+            },
+            "influenza Covid-19": {
+                "Per nulla": 0,
+                "Poco": 1,
+                "Abbastanza": 13,
+                "Molto": 24
+            },
+            "demotivazioni visite": {
+                "distanza": 15,
+                "prezzo": 7,
+                "disinteresse": 2,
+                "tempo": 17,
+                "compagnia": 5,
+                "niente": 6,
+                "altro": [
+                    "Attualmente la pandemia",
+                    "Paura di contagio"
+                ]
+            },
+            "scaricato app arte": {
+                "Si": 17,
+                "No": 21
+            },
+            "giocatore di quiz": {
+                "Sì": 10,
+                "No": 28
+            },
+            "motivazioni download app quiz": {
+                "Cultura personale": 3,
+                "Spirito di competizione": 2,
+                "Sfidare i tuoi amici": 0,
+                "Vincere premi": 2,
+                "Passatempo": 6,
+                "altro": []
+            },
+            "utilita' quiz": {
+                "1": 0,
+                "2": 3,
+                "3": 6,
+                "4": 1
+            },
+            "app conosciute": {
+                "Quiz duello": 3,
+                "Trivia Crack": 1,
+                "Live Quiz": 5,
+                "altro": [
+                    "V"
+                ]
+            },
+            "motivazioni NON download app quiz": {
+                "mai avuto occasione": 3,
+                "disinteresse": 24,
+                "assenza premi": 0,
+                "incapacita'": 1,
+                "altro": []
+            },
+            "parere app quiz tema arte": {
+                "use & talk": 21,
+                "NOTuse & talk": 11,
+                "NOTuse & NOTtalk": 5,
+                "altro": [
+                    "Mi incuriosisce"
+                ]
+            },
+            "bacheca informativa": {
+                "1": 2,
+                "2": 5,
+                "3": 9,
+                "4": 22
+            },
+            "curiosita'": {
+                "1": 6,
+                "2": 5,
+                "3": 17,
+                "4": 10
+            },
+            "classifica": {
+                "1": 10,
+                "2": 12,
+                "3": 11,
+                "4": 5
+            },
+            "vincere buoni": {
+                "1": 5,
+                "2": 5,
+                "3": 10,
+                "4": 18
+            },
+            "tema settimanale": {
+                "1": 4,
+                "2": 12,
+                "3": 9,
+                "4": 13
+            },
+            "consigli": [
+                "Settimana un po' poco tempo per un tema",
+                "Svelare beni culturali poco noti",
+                "Ritengo interessante l'idea ma la vedo adatta ad un pubblico molto giovane",
+                "Ottima idea per i giovani ma poco costruttiva per noi vecchietti abituati al cartaceo "
+            ]
+        }
+    },
+    "Generale": {
+        "Maschio": {
+            "# intervistati": 151,
+            "# visite annue": {
+                "0": 10,
+                "1-2": 62,
+                "3-5": 52,
+                "piú di 5": 27
+            },
+            "occasioni visite": {
+                "viaggio": 101,
+                "weekend": 61,
+                "festivita'": 42,
+                "ferie": 43,
+                "altro": [
+                    "Quando capita",
+                    "Serate/pomeriggi infrasettimanali",
+                    "Quando c’è una particolare mostra che mi interessa",
+                    "Quando c’è una particolare mostra che mi interessa",
+                    "quando mi va"
+                ]
+            },
+            "canali informativi": {
+                "publicita'": 54,
+                "internet": 75,
+                "social network": 68,
+                "passaparola": 94,
+                "altro": [
+                    "giro per la città e basta",
+                    "quando vedo qualcosa di interessante se posso entrare entro.",
+                    "guide turistiche",
+                    "uffici turismo locali",
+                    "Attraverso dépliant presso i luoghi che visito o frequento"
+                ]
+            },
+            "influenza Covid-19": {
+                "Per nulla": 11,
+                "Poco": 12,
+                "Abbastanza": 42,
+                "Molto": 86
+            },
+            "demotivazioni visite": {
+                "distanza": 64,
+                "prezzo": 46,
+                "disinteresse": 34,
+                "tempo": 96,
+                "compagnia": 38,
+                "niente": 11,
+                "altro": [
+                    "Covid-19",
+                    "A volte vengo a conoscenza di mostre o eventi che mi interessavano quando son già conclusi",
+                    "Sono chiusi",
+                    "Altre priorità",
+                    "covid",
+                    "Coviddi",
+                    "Rischio di contagio",
+                    "Altre priorità",
+                    "A Roma molte opere sono esposte in chiese etc con ingresso gratuito"
+                ]
+            },
+            "scaricato app arte": {
+                "Si": 37,
+                "No": 114
+            },
+            "giocatore di quiz": {
+                "Sì": 116,
+                "No": 35
+            },
+            "motivazioni download app quiz": {
+                "Cultura personale": 48,
+                "Spirito di competizione": 44,
+                "Sfidare i tuoi amici": 63,
+                "Vincere premi": 16,
+                "Passatempo": 84,
+                "altro": [
+                    "verificare il livello delle mie conoscenze"
+                ]
+            },
+            "utilita' quiz": {
+                "1": 11,
+                "2": 29,
+                "3": 47,
+                "4": 29
+            },
+            "app conosciute": {
+                "Quiz duello": 87,
+                "Trivia Crack": 91,
+                "Live Quiz": 56,
+                "altro": [
+                    "imagzle",
+                    "quiz di cultura generale",
+                    "Dr. Why"
+                ]
+            },
+            "motivazioni NON download app quiz": {
+                "mai avuto occasione": 3,
+                "disinteresse": 30,
+                "assenza premi": 0,
+                "incapacita'": 0,
+                "altro": [
+                    "non mi interessano i giochi",
+                    "Evito di giocare a telefono"
+                ]
+            },
+            "parere app quiz tema arte": {
+                "use & talk": 79,
+                "NOTuse & talk": 43,
+                "NOTuse & NOTtalk": 21,
+                "altro": [
+                    "Forse la scaricherei ",
+                    "Dipende se l'app risulta \"interessante\"",
+                    "Dipende da quanto è utile e ben fatta l'app stessa",
+                    "solo incentrata su quiz no, magari con qualche descrizione sul luogo utilizzato per le domande si! ",
+                    "dipende da quanto è ben fatta e interessante",
+                    "Mi incuriosisce",
+                    "La proverei se la coniugazione e grafica sono allettanti",
+                    "Mi informerei prima di scaricarla e/o consigliarla "
+                ]
+            },
+            "bacheca informativa": {
+                "1": 15,
+                "2": 18,
+                "3": 54,
+                "4": 64
+            },
+            "curiosita'": {
+                "1": 7,
+                "2": 18,
+                "3": 61,
+                "4": 65
+            },
+            "classifica": {
+                "1": 21,
+                "2": 35,
+                "3": 44,
+                "4": 51
+            },
+            "vincere buoni": {
+                "1": 7,
+                "2": 12,
+                "3": 39,
+                "4": 93
+            },
+            "tema settimanale": {
+                "1": 12,
+                "2": 24,
+                "3": 61,
+                "4": 54
+            },
+            "consigli": [
+                "Nessuno in particolare",
+                "Idea originale e con potenzialità, da approfondire e sviluppare bene",
+                "Metteteci più gnagna",
+                "la continua interruzione di pubblicità da molto fastidio, poi sarebbe fico se fosse per i beni culturali di tutto il mondo e anche di avere la possibilità di andare nello specifico nelle città..e basta per il resto sarebbe fico ",
+                "Aggiungerei molte immagini per rendere più interattivo il quiz e l'applicazione ",
+                "Settimana un po' poco tempo per un tema",
+                "Svelare beni culturali poco noti",
+                "L'idea è carina, originale nel suo genere ma deve essere ben pubblicizzata,magari dalla PA",
+                "Mmm no",
+                "Gaetano é troppo fregno ",
+                "Magari, nell'eventualità di una funzionalità competitiva, si potrebbe prevedere un meccanismo di accoppiamento dei giocatori basata su un sistema di punteggi che permette di giocare contro giocatori che hanno più o meno lo \"stesso livello\" e non \"troppo forti\" o \"troppo deboli\"",
+                "perfetto"
+            ]
+        },
+        "Femmina": {
+            "# intervistati": 109,
+            "# visite annue": {
+                "0": 6,
+                "1-2": 48,
+                "3-5": 30,
+                "piú di 5": 25
+            },
+            "occasioni visite": {
+                "viaggio": 75,
+                "weekend": 58,
+                "festivita'": 23,
+                "ferie": 30,
+                "altro": [
+                    "In qualsiasi momento del mio tempo libero",
+                    "Qualsiasi occasione",
+                    "In orario di lavoro",
+                    "da insegnante",
+                    "Quando c’è una mostra che mi interessa"
+                ]
+            },
+            "canali informativi": {
+                "publicita'": 47,
+                "internet": 37,
+                "social network": 59,
+                "passaparola": 55,
+                "altro": [
+                    "Tutte e 4 le opzioni",
+                    "Cerco di google"
+                ]
+            },
+            "influenza Covid-19": {
+                "Per nulla": 3,
+                "Poco": 8,
+                "Abbastanza": 35,
+                "Molto": 63
+            },
+            "demotivazioni visite": {
+                "distanza": 40,
+                "prezzo": 29,
+                "disinteresse": 4,
+                "tempo": 46,
+                "compagnia": 16,
+                "niente": 13,
+                "altro": [
+                    "L’utilizzo dei mezzi di trasporto che sono sempre affollati",
+                    "non rendendo sicuro il viaggio in questo periodo complicato",
+                    "La poca sicurezza dei mezzi pubblici",
+                    "Procrastinazione",
+                    "Attualmente la pandemia",
+                    "Difficoltà con bambini piccoli",
+                    "Paura di contagio",
+                    "Paura"
+                ]
+            },
+            "scaricato app arte": {
+                "Si": 42,
+                "No": 67
+            },
+            "giocatore di quiz": {
+                "Sì": 73,
+                "No": 36
+            },
+            "motivazioni download app quiz": {
+                "Cultura personale": 38,
+                "Spirito di competizione": 20,
+                "Sfidare i tuoi amici": 29,
+                "Vincere premi": 4,
+                "Passatempo": 55,
+                "altro": []
+            },
+            "utilita' quiz": {
+                "1": 1,
+                "2": 18,
+                "3": 39,
+                "4": 15
+            },
+            "app conosciute": {
+                "Quiz duello": 51,
+                "Trivia Crack": 56,
+                "Live Quiz": 25,
+                "altro": [
+                    "V",
+                    "Quizland"
+                ]
+            },
+            "motivazioni NON download app quiz": {
+                "mai avuto occasione": 8,
+                "disinteresse": 27,
+                "assenza premi": 0,
+                "incapacita'": 1,
+                "altro": []
+            },
+            "parere app quiz tema arte": {
+                "use & talk": 82,
+                "NOTuse & talk": 16,
+                "NOTuse & NOTtalk": 9,
+                "altro": [
+                    "la scaricherei e se mi piacesse la consiglierei ",
+                    "La scaricherei, ma non la consiglierei. I miei amici non sono molto amanti dell'arte."
+                ]
+            },
+            "bacheca informativa": {
+                "1": 3,
+                "2": 10,
+                "3": 37,
+                "4": 59
+            },
+            "curiosita'": {
+                "1": 8,
+                "2": 4,
+                "3": 39,
+                "4": 58
+            },
+            "classifica": {
+                "1": 16,
+                "2": 29,
+                "3": 47,
+                "4": 17
+            },
+            "vincere buoni": {
+                "1": 5,
+                "2": 3,
+                "3": 21,
+                "4": 80
+            },
+            "tema settimanale": {
+                "1": 4,
+                "2": 13,
+                "3": 32,
+                "4": 60
+            },
+            "consigli": [
+                "Non so se possa essere preso come un consiglio ma io dividerei i beni culturali anche per periodi storici oppure categorie in modo che ognuno possa giocare ed interessarsi a quello che più preferisce",
+                "Nessuna",
+                "Ci avevo pensato anche io a sta cosa grandi ",
+                ".",
+                "Notifica + promemoria su calendario. Magari, il sistema a punteggio è basato su quante opere hai conquistato, per vedere il tuo livello di cultura",
+                "Integrare l’App con un sistema di scontistica ricorrente (es. Settimanale, mensile)",
+                "Integrare l’App con un sistema di scontistica ricorrente (es. Settimanale, mensile)",
+                "Ritengo interessante l'idea ma la vedo adatta ad un pubblico molto giovane",
+                "Ottima idea per i giovani ma poco costruttiva per noi vecchietti abituati al cartaceo "
+            ]
+        },
+        "Altro": {
+            "# intervistati": 1,
+            "# visite annue": {
+                "0": 1,
+                "1-2": 0,
+                "3-5": 0,
+                "piú di 5": 0
+            },
+            "occasioni visite": {
+                "viaggio": 0,
+                "weekend": 0,
+                "festivita'": 0,
+                "ferie": 0,
+                "altro": []
+            },
+            "canali informativi": {
+                "publicita'": 0,
+                "internet": 0,
+                "social network": 0,
+                "passaparola": 0,
+                "altro": []
+            },
+            "influenza Covid-19": {
+                "Per nulla": 1,
+                "Poco": 0,
+                "Abbastanza": 0,
+                "Molto": 0
+            },
+            "demotivazioni visite": {
+                "distanza": 0,
+                "prezzo": 0,
+                "disinteresse": 0,
+                "tempo": 1,
+                "compagnia": 0,
+                "niente": 0,
+                "altro": []
+            },
+            "scaricato app arte": {
+                "Si": 1,
+                "No": 0
+            },
+            "giocatore di quiz": {
+                "Sì": 1,
+                "No": 0
+            },
+            "motivazioni download app quiz": {
+                "Cultura personale": 0,
+                "Spirito di competizione": 0,
+                "Sfidare i tuoi amici": 0,
+                "Vincere premi": 0,
+                "Passatempo": 1,
+                "altro": []
+            },
+            "utilita' quiz": {
+                "1": 0,
+                "2": 1,
+                "3": 0,
+                "4": 0
+            },
+            "app conosciute": {
+                "Quiz duello": 1,
+                "Trivia Crack": 0,
+                "Live Quiz": 0,
+                "altro": []
+            },
+            "motivazioni NON download app quiz": {
+                "mai avuto occasione": 0,
+                "disinteresse": 0,
+                "assenza premi": 0,
+                "incapacita'": 0,
+                "altro": []
+            },
+            "parere app quiz tema arte": {
+                "use & talk": 0,
+                "NOTuse & talk": 1,
+                "NOTuse & NOTtalk": 0,
+                "altro": []
+            },
+            "bacheca informativa": {
+                "1": 0,
+                "2": 1,
+                "3": 0,
+                "4": 0
+            },
+            "curiosita'": {
+                "1": 0,
+                "2": 1,
+                "3": 0,
+                "4": 0
+            },
+            "classifica": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 0
+            },
+            "vincere buoni": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 1
+            },
+            "tema settimanale": {
+                "1": 0,
+                "2": 1,
+                "3": 0,
+                "4": 0
+            },
+            "consigli": []
+        },
+        "Generale": {
+            "# intervistati": 261,
+            "# visite annue": {
+                "0": 17,
+                "1-2": 110,
+                "3-5": 82,
+                "piú di 5": 52
+            },
+            "occasioni visite": {
+                "viaggio": 176,
+                "weekend": 119,
+                "festivita'": 65,
+                "ferie": 73,
+                "altro": [
+                    "Quando capita",
+                    "In qualsiasi momento del mio tempo libero",
+                    "Serate/pomeriggi infrasettimanali",
+                    "Quando c’è una particolare mostra che mi interessa",
+                    "Quando c’è una particolare mostra che mi interessa",
+                    "quando mi va",
+                    "Qualsiasi occasione",
+                    "In orario di lavoro",
+                    "da insegnante",
+                    "Quando c’è una mostra che mi interessa"
+                ]
+            },
+            "canali informativi": {
+                "publicita'": 101,
+                "internet": 112,
+                "social network": 127,
+                "passaparola": 149,
+                "altro": [
+                    "giro per la città e basta",
+                    "quando vedo qualcosa di interessante se posso entrare entro.",
+                    "guide turistiche",
+                    "uffici turismo locali",
+                    "Tutte e 4 le opzioni",
+                    "Cerco di google",
+                    "Attraverso dépliant presso i luoghi che visito o frequento"
+                ]
+            },
+            "influenza Covid-19": {
+                "Per nulla": 15,
+                "Poco": 20,
+                "Abbastanza": 77,
+                "Molto": 149
+            },
+            "demotivazioni visite": {
+                "distanza": 104,
+                "prezzo": 75,
+                "disinteresse": 38,
+                "tempo": 143,
+                "compagnia": 54,
+                "niente": 24,
+                "altro": [
+                    "L’utilizzo dei mezzi di trasporto che sono sempre affollati",
+                    "non rendendo sicuro il viaggio in questo periodo complicato",
+                    "Covid-19",
+                    "La poca sicurezza dei mezzi pubblici",
+                    "A volte vengo a conoscenza di mostre o eventi che mi interessavano quando son già conclusi",
+                    "Sono chiusi",
+                    "Altre priorità",
+                    "Procrastinazione",
+                    "covid",
+                    "Coviddi",
+                    "Rischio di contagio",
+                    "Attualmente la pandemia",
+                    "Difficoltà con bambini piccoli",
+                    "Altre priorità",
+                    "Paura di contagio",
+                    "Paura",
+                    "A Roma molte opere sono esposte in chiese etc con ingresso gratuito"
+                ]
+            },
+            "scaricato app arte": {
+                "Si": 80,
+                "No": 181
+            },
+            "giocatore di quiz": {
+                "Sì": 190,
+                "No": 71
+            },
+            "motivazioni download app quiz": {
+                "Cultura personale": 86,
+                "Spirito di competizione": 64,
+                "Sfidare i tuoi amici": 92,
+                "Vincere premi": 20,
+                "Passatempo": 140,
+                "altro": [
+                    "verificare il livello delle mie conoscenze"
+                ]
+            },
+            "utilita' quiz": {
+                "1": 12,
+                "2": 48,
+                "3": 86,
+                "4": 44
+            },
+            "app conosciute": {
+                "Quiz duello": 139,
+                "Trivia Crack": 147,
+                "Live Quiz": 81,
+                "altro": [
+                    "imagzle",
+                    "quiz di cultura generale",
+                    "Dr. Why",
+                    "V",
+                    "Quizland"
+                ]
+            },
+            "motivazioni NON download app quiz": {
+                "mai avuto occasione": 11,
+                "disinteresse": 57,
+                "assenza premi": 0,
+                "incapacita'": 1,
+                "altro": [
+                    "non mi interessano i giochi",
+                    "Evito di giocare a telefono"
+                ]
+            },
+            "parere app quiz tema arte": {
+                "use & talk": 161,
+                "NOTuse & talk": 60,
+                "NOTuse & NOTtalk": 30,
+                "altro": [
+                    "Forse la scaricherei ",
+                    "Dipende se l'app risulta \"interessante\"",
+                    "Dipende da quanto è utile e ben fatta l'app stessa",
+                    "solo incentrata su quiz no, magari con qualche descrizione sul luogo utilizzato per le domande si! ",
+                    "dipende da quanto è ben fatta e interessante",
+                    "la scaricherei e se mi piacesse la consiglierei ",
+                    "La scaricherei, ma non la consiglierei. I miei amici non sono molto amanti dell'arte.",
+                    "Mi incuriosisce",
+                    "La proverei se la coniugazione e grafica sono allettanti",
+                    "Mi informerei prima di scaricarla e/o consigliarla "
+                ]
+            },
+            "bacheca informativa": {
+                "1": 18,
+                "2": 29,
+                "3": 91,
+                "4": 123
+            },
+            "curiosita'": {
+                "1": 15,
+                "2": 23,
+                "3": 100,
+                "4": 123
+            },
+            "classifica": {
+                "1": 37,
+                "2": 64,
+                "3": 92,
+                "4": 68
+            },
+            "vincere buoni": {
+                "1": 12,
+                "2": 15,
+                "3": 60,
+                "4": 174
+            },
+            "tema settimanale": {
+                "1": 16,
+                "2": 38,
+                "3": 93,
+                "4": 114
+            },
+            "consigli": [
+                "Nessuno in particolare",
+                "Non so se possa essere preso come un consiglio ma io dividerei i beni culturali anche per periodi storici oppure categorie in modo che ognuno possa giocare ed interessarsi a quello che più preferisce",
+                "Idea originale e con potenzialità, da approfondire e sviluppare bene",
+                "Nessuna",
+                "Metteteci più gnagna",
+                "Ci avevo pensato anche io a sta cosa grandi ",
+                ".",
+                "Notifica + promemoria su calendario. Magari, il sistema a punteggio è basato su quante opere hai conquistato, per vedere il tuo livello di cultura",
+                "la continua interruzione di pubblicità da molto fastidio, poi sarebbe fico se fosse per i beni culturali di tutto il mondo e anche di avere la possibilità di andare nello specifico nelle città..e basta per il resto sarebbe fico ",
+                "Aggiungerei molte immagini per rendere più interattivo il quiz e l'applicazione ",
+                "Integrare l’App con un sistema di scontistica ricorrente (es. Settimanale, mensile)",
+                "Settimana un po' poco tempo per un tema",
+                "Integrare l’App con un sistema di scontistica ricorrente (es. Settimanale, mensile)",
+                "Svelare beni culturali poco noti",
+                "L'idea è carina, originale nel suo genere ma deve essere ben pubblicizzata,magari dalla PA",
+                "Ritengo interessante l'idea ma la vedo adatta ad un pubblico molto giovane",
+                "Ottima idea per i giovani ma poco costruttiva per noi vecchietti abituati al cartaceo ",
+                "Mmm no",
+                "Gaetano é troppo fregno ",
+                "Magari, nell'eventualità di una funzionalità competitiva, si potrebbe prevedere un meccanismo di accoppiamento dei giocatori basata su un sistema di punteggi che permette di giocare contro giocatori che hanno più o meno lo \"stesso livello\" e non \"troppo forti\" o \"troppo deboli\"",
+                "perfetto"
+            ]
+        }
+    }
+}

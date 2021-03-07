@@ -1,0 +1,654 @@
+Maschio, Meno di 18: 3 persone
+- Visitano annualmente beni culturali:
+	1-2(100.0%);
+chi li visita lo fa nelle seguenti occasioni:
+	festivita'(37.5%), viaggio(37.5%), ferie(12.5%), weekend(12.5%);
+e si informa riguardo ai beni culturali tramite:
+	internet(30.0%), publicita'(30.0%), passaparola(20.0%), social network(20.0%);
+- Il problema covid ha inficiato sulla frequenza di visita dei beni culturali:
+	Molto(66.67%), Abbastanza(33.33%);
+- Ció che li frena nella visita di beni culturali è:
+	tempo(42.86%), compagnia(28.57%), disinteresse(28.57%);
+- Scaricano app a tema arte:
+	No(66.67%), Si(33.33%);
+- Scaricano giochi a quiz:
+	Sì(100.0%);
+chi ha risposto si gioca a quiz per:
+	Cultura personale(30.0%), Spirito di competizione(30.0%), Passatempo(20.0%), Sfidare gli amici(20.0%);
+chi ci gioca conosce:
+	Live Quiz(37.5%), Trivia Crack(37.5%), Quiz duello(25.0%);
+- Parere app quiz tema arte:
+	use & talk(66.67%), NOTuse & talk(33.33%);
+- Valutano 10.0/10 l’utilitá della classifica tra amici;
+- Valutano 10.0/10 l’utilitá di vincere dei buoni;
+- Valutano 8.33/10 l’utilitá della bacheca informativa;
+- Valutano 8.33/10 l’utilitá dei temi settimanali.
+- Valutano 7.5/10 l’utilitá delle curiositá durante il quiz;
+- Valutano 7.5/10 l’utilitá dei giochi a quiz;
+
+Femmina, Meno di 18: 4 persone
+- Visitano annualmente beni culturali:
+	1-2(50.0%), 3-5(50.0%);
+chi li visita lo fa nelle seguenti occasioni:
+	viaggio(50.0%), weekend(33.33%), festivita'(16.67%);
+e si informa riguardo ai beni culturali tramite:
+	internet(37.5%), social network(37.5%), passaparola(25.0%);
+- Il problema covid ha inficiato sulla frequenza di visita dei beni culturali:
+	Abbastanza(50.0%), Molto(50.0%);
+- Ció che li frena nella visita di beni culturali è:
+	tempo(57.14%), distanza(42.86%);
+- Scaricano app a tema arte:
+	No(75.0%), Si(25.0%);
+- Scaricano giochi a quiz:
+	Sì(100.0%);
+chi ha risposto si gioca a quiz per:
+	Cultura personale(33.33%), Passatempo(33.33%), Sfidare gli amici(33.33%);
+chi ci gioca conosce:
+	Trivia Crack(50.0%), Live Quiz(25.0%), Quiz duello(25.0%);
+- Parere app quiz tema arte:
+	use & talk(75.0%), NOTuse & talk(25.0%);
+- Valutano 9.38/10 l’utilitá della bacheca informativa;
+- Valutano 8.75/10 l’utilitá delle curiositá durante il quiz;
+- Valutano 8.75/10 l’utilitá dei temi settimanali.
+- Valutano 8.75/10 l’utilitá di vincere dei buoni;
+- Valutano 6.25/10 l’utilitá della classifica tra amici;
+- Valutano 6.25/10 l’utilitá dei giochi a quiz;
+
+Altro, Meno di 18: 0 persone
+
+Generale, Meno di 18: 7 persone
+- Visitano annualmente beni culturali:
+	1-2(71.43%), 3-5(28.57%);
+chi li visita lo fa nelle seguenti occasioni:
+	viaggio(42.86%), festivita'(28.57%), weekend(21.43%), ferie(7.14%);
+e si informa riguardo ai beni culturali tramite:
+	internet(33.33%), social network(27.78%), passaparola(22.22%), publicita'(16.67%);
+- Il problema covid ha inficiato sulla frequenza di visita dei beni culturali:
+	Molto(57.14%), Abbastanza(42.86%);
+- Ció che li frena nella visita di beni culturali è:
+	tempo(50.0%), distanza(21.43%), compagnia(14.29%), disinteresse(14.29%);
+- Scaricano app a tema arte:
+	No(71.43%), Si(28.57%);
+- Scaricano giochi a quiz:
+	Sì(100.0%);
+chi ha risposto si gioca a quiz per:
+	Cultura personale(31.25%), Passatempo(25.0%), Sfidare gli amici(25.0%), Spirito di competizione(18.75%);
+chi ci gioca conosce:
+	Trivia Crack(43.75%), Live Quiz(31.25%), Quiz duello(25.0%);
+- Parere app quiz tema arte:
+	use & talk(71.43%), NOTuse & talk(28.57%);
+- Valutano 9.29/10 l’utilitá di vincere dei buoni;
+- Valutano 8.93/10 l’utilitá della bacheca informativa;
+- Valutano 8.57/10 l’utilitá dei temi settimanali.
+- Valutano 8.21/10 l’utilitá delle curiositá durante il quiz;
+- Valutano 7.86/10 l’utilitá della classifica tra amici;
+- Valutano 6.79/10 l’utilitá dei giochi a quiz;
+
+Maschio, 18-25: 104 persone
+- Visitano annualmente beni culturali:
+	1-2(41.35%), 3-5(33.65%), piú di 5(17.31%), 0(7.69%);
+chi li visita lo fa nelle seguenti occasioni:
+	viaggio(41.57%), weekend(25.3%), festivita'(20.48%), ferie(12.65%);
+e si informa riguardo ai beni culturali tramite:
+	passaparola(34.95%), social network(25.73%), internet(21.36%), publicita'(17.96%);
+- Il problema covid ha inficiato sulla frequenza di visita dei beni culturali:
+	Molto(52.88%), Abbastanza(27.88%), Poco(10.58%), Per nulla(8.65%);
+- Ció che li frena nella visita di beni culturali è:
+	tempo(33.49%), distanza(22.97%), prezzo(16.27%), compagnia(13.88%), disinteresse(11.48%), niente(1.91%);
+- Scaricano app a tema arte:
+	No(80.77%), Si(19.23%);
+- Scaricano giochi a quiz:
+	Sì(86.54%), No(13.46%);
+chi non scarica giochi a quiz é perché:
+	disinteresse(85.71%), mai avuto occasione(14.29%);
+chi ha risposto si gioca a quiz per:
+	Passatempo(31.84%), Sfidare gli amici(27.36%), Cultura personale(17.41%), Spirito di competizione(16.92%), Vincere premi(6.47%);
+chi ci gioca conosce:
+	Trivia Crack(40.74%), Quiz duello(36.51%), Live Quiz(22.75%);
+- Parere app quiz tema arte:
+	use & talk(54.08%), NOTuse & talk(29.59%), NOTuse & NOTtalk(16.33%);
+- Valutano 8.8/10 l’utilitá di vincere dei buoni;
+- Valutano 8.39/10 l’utilitá delle curiositá durante il quiz;
+- Valutano 7.79/10 l’utilitá dei temi settimanali.
+- Valutano 7.67/10 l’utilitá della bacheca informativa;
+- Valutano 7.28/10 l’utilitá della classifica tra amici;
+- Valutano 7.06/10 l’utilitá dei giochi a quiz;
+
+Femmina, 18-25: 52 persone
+- Visitano annualmente beni culturali:
+	1-2(51.92%), 3-5(23.08%), piú di 5(23.08%), 0(1.92%);
+chi li visita lo fa nelle seguenti occasioni:
+	viaggio(41.67%), weekend(29.17%), festivita'(15.62%), ferie(13.54%);
+e si informa riguardo ai beni culturali tramite:
+	social network(33.33%), passaparola(32.38%), publicita'(23.81%), internet(10.48%);
+- Il problema covid ha inficiato sulla frequenza di visita dei beni culturali:
+	Molto(57.69%), Abbastanza(28.85%), Poco(9.62%), Per nulla(3.85%);
+- Ció che li frena nella visita di beni culturali è:
+	tempo(30.49%), distanza(24.39%), prezzo(23.17%), compagnia(10.98%), niente(7.32%), disinteresse(3.66%);
+- Scaricano app a tema arte:
+	No(61.54%), Si(38.46%);
+- Scaricano giochi a quiz:
+	Sì(90.38%), No(9.62%);
+chi non scarica giochi a quiz é perché:
+	disinteresse(100.0%);
+chi ha risposto si gioca a quiz per:
+	Passatempo(38.46%), Cultura personale(23.08%), Sfidare gli amici(22.12%), Spirito di competizione(14.42%), Vincere premi(1.92%);
+chi ci gioca conosce:
+	Trivia Crack(43.3%), Quiz duello(40.21%), Live Quiz(16.49%);
+- Parere app quiz tema arte:
+	use & talk(84.0%), NOTuse & talk(12.0%), NOTuse & NOTtalk(4.0%);
+- Valutano 9.52/10 l’utilitá di vincere dei buoni;
+- Valutano 8.89/10 l’utilitá dei temi settimanali.
+- Valutano 8.85/10 l’utilitá delle curiositá durante il quiz;
+- Valutano 8.08/10 l’utilitá della bacheca informativa;
+- Valutano 7.29/10 l’utilitá dei giochi a quiz;
+- Valutano 6.78/10 l’utilitá della classifica tra amici;
+
+Altro, 18-25: 1 persone
+- Visitano annualmente beni culturali:
+	0(100.0%);
+- Il problema covid ha inficiato sulla frequenza di visita dei beni culturali:
+	Per nulla(100.0%);
+- Ció che li frena nella visita di beni culturali è:
+	tempo(100.0%);
+- Scaricano app a tema arte:
+	Si(100.0%);
+- Scaricano giochi a quiz:
+	Sì(100.0%);
+chi ha risposto si gioca a quiz per:
+	Passatempo(100.0%);
+chi ci gioca conosce:
+	Quiz duello(100.0%);
+- Parere app quiz tema arte:
+	NOTuse & talk(100.0%);
+- Valutano 10.0/10 l’utilitá di vincere dei buoni;
+- Valutano 7.5/10 l’utilitá della classifica tra amici;
+- Valutano 5.0/10 l’utilitá della bacheca informativa;
+- Valutano 5.0/10 l’utilitá delle curiositá durante il quiz;
+- Valutano 5.0/10 l’utilitá dei temi settimanali.
+- Valutano 5.0/10 l’utilitá dei giochi a quiz;
+
+Generale, 18-25: 157 persone
+- Visitano annualmente beni culturali:
+	1-2(44.59%), 3-5(29.94%), piú di 5(19.11%), 0(6.37%);
+chi li visita lo fa nelle seguenti occasioni:
+	viaggio(41.6%), weekend(26.72%), festivita'(18.7%), ferie(12.98%);
+e si informa riguardo ai beni culturali tramite:
+	passaparola(34.08%), social network(28.3%), publicita'(19.94%), internet(17.68%);
+- Il problema covid ha inficiato sulla frequenza di visita dei beni culturali:
+	Molto(54.14%), Abbastanza(28.03%), Poco(10.19%), Per nulla(7.64%);
+- Ció che li frena nella visita di beni culturali è:
+	tempo(32.88%), distanza(23.29%), prezzo(18.15%), compagnia(13.01%), disinteresse(9.25%), niente(3.42%);
+- Scaricano app a tema arte:
+	No(73.89%), Si(26.11%);
+- Scaricano giochi a quiz:
+	Sì(87.9%), No(12.1%);
+chi non scarica giochi a quiz é perché:
+	disinteresse(89.47%), mai avuto occasione(10.53%);
+chi ha risposto si gioca a quiz per:
+	Passatempo(34.31%), Sfidare gli amici(25.49%), Cultura personale(19.28%), Spirito di competizione(16.01%), Vincere premi(4.9%);
+chi ci gioca conosce:
+	Trivia Crack(41.46%), Quiz duello(37.98%), Live Quiz(20.56%);
+- Parere app quiz tema arte:
+	use & talk(63.76%), NOTuse & talk(24.16%), NOTuse & NOTtalk(12.08%);
+- Valutano 9.04/10 l’utilitá di vincere dei buoni;
+- Valutano 8.52/10 l’utilitá delle curiositá durante il quiz;
+- Valutano 8.14/10 l’utilitá dei temi settimanali.
+- Valutano 7.79/10 l’utilitá della bacheca informativa;
+- Valutano 7.12/10 l’utilitá della classifica tra amici;
+- Valutano 7.12/10 l’utilitá dei giochi a quiz;
+
+Maschio, 26-35: 20 persone
+- Visitano annualmente beni culturali:
+	1-2(55.0%), 3-5(20.0%), piú di 5(15.0%), 0(10.0%);
+chi li visita lo fa nelle seguenti occasioni:
+	viaggio(41.67%), weekend(25.0%), ferie(22.22%), festivita'(11.11%);
+e si informa riguardo ai beni culturali tramite:
+	internet(31.43%), social network(25.71%), passaparola(22.86%), publicita'(20.0%);
+- Il problema covid ha inficiato sulla frequenza di visita dei beni culturali:
+	Molto(55.0%), Abbastanza(30.0%), Per nulla(10.0%), Poco(5.0%);
+- Ció che li frena nella visita di beni culturali è:
+	tempo(33.33%), disinteresse(16.67%), distanza(16.67%), niente(13.89%), prezzo(11.11%), compagnia(8.33%);
+- Scaricano app a tema arte:
+	No(85.0%), Si(15.0%);
+- Scaricano giochi a quiz:
+	Sì(70.0%), No(30.0%);
+chi non scarica giochi a quiz é perché:
+	disinteresse(75.0%), mai avuto occasione(25.0%);
+chi ha risposto si gioca a quiz per:
+	Passatempo(35.48%), Cultura personale(25.81%), Sfidare gli amici(19.35%), Spirito di competizione(16.13%), Vincere premi(3.23%);
+chi ci gioca conosce:
+	Quiz duello(44.83%), Trivia Crack(31.03%), Live Quiz(24.14%);
+- Parere app quiz tema arte:
+	use & talk(52.63%), NOTuse & talk(31.58%), NOTuse & NOTtalk(15.79%);
+- Valutano 8.25/10 l’utilitá di vincere dei buoni;
+- Valutano 7.38/10 l’utilitá delle curiositá durante il quiz;
+- Valutano 7.32/10 l’utilitá dei giochi a quiz;
+- Valutano 7.25/10 l’utilitá della bacheca informativa;
+- Valutano 7.12/10 l’utilitá dei temi settimanali.
+- Valutano 6.38/10 l’utilitá della classifica tra amici;
+
+Femmina, 26-35: 14 persone
+- Visitano annualmente beni culturali:
+	3-5(42.86%), 1-2(35.71%), piú di 5(14.29%), 0(7.14%);
+chi li visita lo fa nelle seguenti occasioni:
+	weekend(39.29%), viaggio(35.71%), ferie(14.29%), festivita'(10.71%);
+e si informa riguardo ai beni culturali tramite:
+	internet(35.71%), publicita'(28.57%), social network(21.43%), passaparola(14.29%);
+- Il problema covid ha inficiato sulla frequenza di visita dei beni culturali:
+	Molto(78.57%), Abbastanza(14.29%), Per nulla(7.14%);
+- Ció che li frena nella visita di beni culturali è:
+	prezzo(43.75%), tempo(18.75%), compagnia(12.5%), distanza(12.5%), disinteresse(6.25%), niente(6.25%);
+- Scaricano app a tema arte:
+	No(57.14%), Si(42.86%);
+- Scaricano giochi a quiz:
+	Sì(85.71%), No(14.29%);
+chi non scarica giochi a quiz é perché:
+	mai avuto occasione(100.0%);
+chi ha risposto si gioca a quiz per:
+	Passatempo(33.33%), Cultura personale(29.17%), Spirito di competizione(20.83%), Sfidare gli amici(12.5%), Vincere premi(4.17%);
+chi ci gioca conosce:
+	Trivia Crack(44.44%), Quiz duello(33.33%), Live Quiz(22.22%);
+- Parere app quiz tema arte:
+	use & talk(100.0%);
+- Valutano 9.82/10 l’utilitá di vincere dei buoni;
+- Valutano 9.46/10 l’utilitá della bacheca informativa;
+- Valutano 9.46/10 l’utilitá delle curiositá durante il quiz;
+- Valutano 8.93/10 l’utilitá dei temi settimanali.
+- Valutano 8.12/10 l’utilitá dei giochi a quiz;
+- Valutano 7.32/10 l’utilitá della classifica tra amici;
+
+Altro, 26-35: 0 persone
+
+Generale, 26-35: 34 persone
+- Visitano annualmente beni culturali:
+	1-2(47.06%), 3-5(29.41%), piú di 5(14.71%), 0(8.82%);
+chi li visita lo fa nelle seguenti occasioni:
+	viaggio(39.06%), weekend(31.25%), ferie(18.75%), festivita'(10.94%);
+e si informa riguardo ai beni culturali tramite:
+	internet(33.33%), publicita'(23.81%), social network(23.81%), passaparola(19.05%);
+- Il problema covid ha inficiato sulla frequenza di visita dei beni culturali:
+	Molto(64.71%), Abbastanza(23.53%), Per nulla(8.82%), Poco(2.94%);
+- Ció che li frena nella visita di beni culturali è:
+	tempo(28.85%), prezzo(21.15%), distanza(15.38%), disinteresse(13.46%), niente(11.54%), compagnia(9.62%);
+- Scaricano app a tema arte:
+	No(73.53%), Si(26.47%);
+- Scaricano giochi a quiz:
+	Sì(76.47%), No(23.53%);
+chi non scarica giochi a quiz é perché:
+	disinteresse(50.0%), mai avuto occasione(50.0%);
+chi ha risposto si gioca a quiz per:
+	Passatempo(34.55%), Cultura personale(27.27%), Spirito di competizione(18.18%), Sfidare gli amici(16.36%), Vincere premi(3.64%);
+chi ci gioca conosce:
+	Quiz duello(40.43%), Trivia Crack(36.17%), Live Quiz(23.4%);
+- Parere app quiz tema arte:
+	use & talk(72.73%), NOTuse & talk(18.18%), NOTuse & NOTtalk(9.09%);
+- Valutano 8.9/10 l’utilitá di vincere dei buoni;
+- Valutano 8.24/10 l’utilitá delle curiositá durante il quiz;
+- Valutano 8.16/10 l’utilitá della bacheca informativa;
+- Valutano 7.87/10 l’utilitá dei temi settimanali.
+- Valutano 7.69/10 l’utilitá dei giochi a quiz;
+- Valutano 6.76/10 l’utilitá della classifica tra amici;
+
+Maschio, 36-45: 0 persone
+
+Femmina, 36-45: 2 persone
+- Visitano annualmente beni culturali:
+	1-2(100.0%);
+chi li visita lo fa nelle seguenti occasioni:
+	viaggio(50.0%), weekend(50.0%);
+e si informa riguardo ai beni culturali tramite:
+	internet(50.0%), social network(50.0%);
+- Il problema covid ha inficiato sulla frequenza di visita dei beni culturali:
+	Molto(100.0%);
+- Ció che li frena nella visita di beni culturali è:
+	compagnia(100.0%);
+- Scaricano app a tema arte:
+	No(100.0%);
+- Scaricano giochi a quiz:
+	No(50.0%), Sì(50.0%);
+chi non scarica giochi a quiz é perché:
+	disinteresse(100.0%);
+chi ha risposto si gioca a quiz per:
+	Cultura personale(100.0%);
+chi ci gioca conosce:
+	Trivia Crack(100.0%);
+- Parere app quiz tema arte:
+	use & talk(100.0%);
+- Valutano 10.0/10 l’utilitá di vincere dei buoni;
+- Valutano 8.75/10 l’utilitá della bacheca informativa;
+- Valutano 8.75/10 l’utilitá delle curiositá durante il quiz;
+- Valutano 8.75/10 l’utilitá dei temi settimanali.
+- Valutano 7.5/10 l’utilitá della classifica tra amici;
+- Valutano 7.5/10 l’utilitá dei giochi a quiz;
+
+Altro, 36-45: 0 persone
+
+Generale, 36-45: 2 persone
+- Visitano annualmente beni culturali:
+	1-2(100.0%);
+chi li visita lo fa nelle seguenti occasioni:
+	viaggio(50.0%), weekend(50.0%);
+e si informa riguardo ai beni culturali tramite:
+	internet(50.0%), social network(50.0%);
+- Il problema covid ha inficiato sulla frequenza di visita dei beni culturali:
+	Molto(100.0%);
+- Ció che li frena nella visita di beni culturali è:
+	compagnia(100.0%);
+- Scaricano app a tema arte:
+	No(100.0%);
+- Scaricano giochi a quiz:
+	No(50.0%), Sì(50.0%);
+chi non scarica giochi a quiz é perché:
+	disinteresse(100.0%);
+chi ha risposto si gioca a quiz per:
+	Cultura personale(100.0%);
+chi ci gioca conosce:
+	Trivia Crack(100.0%);
+- Parere app quiz tema arte:
+	use & talk(100.0%);
+- Valutano 10.0/10 l’utilitá di vincere dei buoni;
+- Valutano 8.75/10 l’utilitá della bacheca informativa;
+- Valutano 8.75/10 l’utilitá delle curiositá durante il quiz;
+- Valutano 8.75/10 l’utilitá dei temi settimanali.
+- Valutano 7.5/10 l’utilitá della classifica tra amici;
+- Valutano 7.5/10 l’utilitá dei giochi a quiz;
+
+Maschio, 46-55: 6 persone
+- Visitano annualmente beni culturali:
+	3-5(66.67%), 1-2(16.67%), piú di 5(16.67%);
+chi li visita lo fa nelle seguenti occasioni:
+	ferie(55.56%), viaggio(22.22%), weekend(22.22%);
+e si informa riguardo ai beni culturali tramite:
+	internet(44.44%), publicita'(33.33%), passaparola(22.22%);
+- Il problema covid ha inficiato sulla frequenza di visita dei beni culturali:
+	Molto(83.33%), Abbastanza(16.67%);
+- Ció che li frena nella visita di beni culturali è:
+	distanza(44.44%), prezzo(33.33%), compagnia(11.11%), tempo(11.11%);
+- Scaricano app a tema arte:
+	No(50.0%), Si(50.0%);
+- Scaricano giochi a quiz:
+	No(50.0%), Sì(50.0%);
+chi non scarica giochi a quiz é perché:
+	disinteresse(100.0%);
+chi ha risposto si gioca a quiz per:
+	Passatempo(75.0%), Cultura personale(25.0%);
+chi ci gioca conosce:
+	Quiz duello(50.0%), Trivia Crack(50.0%);
+- Parere app quiz tema arte:
+	NOTuse & talk(50.0%), use & talk(50.0%);
+- Valutano 8.33/10 l’utilitá della bacheca informativa;
+- Valutano 8.33/10 l’utilitá di vincere dei buoni;
+- Valutano 7.5/10 l’utilitá delle curiositá durante il quiz;
+- Valutano 6.67/10 l’utilitá della classifica tra amici;
+- Valutano 6.67/10 l’utilitá dei temi settimanali.
+- Valutano 4.17/10 l’utilitá dei giochi a quiz;
+
+Femmina, 46-55: 17 persone
+- Visitano annualmente beni culturali:
+	1-2(41.18%), piú di 5(35.29%), 3-5(23.53%);
+chi li visita lo fa nelle seguenti occasioni:
+	viaggio(37.93%), weekend(31.03%), ferie(24.14%), festivita'(6.9%);
+e si informa riguardo ai beni culturali tramite:
+	internet(27.59%), passaparola(24.14%), publicita'(24.14%), social network(24.14%);
+- Il problema covid ha inficiato sulla frequenza di visita dei beni culturali:
+	Abbastanza(47.06%), Molto(41.18%), Poco(11.76%);
+- Ció che li frena nella visita di beni culturali è:
+	tempo(38.89%), distanza(33.33%), compagnia(11.11%), niente(11.11%), prezzo(5.56%);
+- Scaricano app a tema arte:
+	No(52.94%), Si(47.06%);
+- Scaricano giochi a quiz:
+	No(70.59%), Sì(29.41%);
+chi non scarica giochi a quiz é perché:
+	disinteresse(75.0%), mai avuto occasione(25.0%);
+chi ha risposto si gioca a quiz per:
+	Passatempo(42.86%), Cultura personale(28.57%), Sfidare gli amici(14.29%), Vincere premi(14.29%);
+chi ci gioca conosce:
+	Quiz duello(60.0%), Live Quiz(20.0%), Trivia Crack(20.0%);
+- Parere app quiz tema arte:
+	use & talk(64.71%), NOTuse & NOTtalk(23.53%), NOTuse & talk(11.76%);
+- Valutano 9.12/10 l’utilitá della bacheca informativa;
+- Valutano 8.53/10 l’utilitá di vincere dei buoni;
+- Valutano 8.09/10 l’utilitá dei temi settimanali.
+- Valutano 7.5/10 l’utilitá delle curiositá durante il quiz;
+- Valutano 7.0/10 l’utilitá dei giochi a quiz;
+- Valutano 6.32/10 l’utilitá della classifica tra amici;
+
+Altro, 46-55: 0 persone
+
+Generale, 46-55: 23 persone
+- Visitano annualmente beni culturali:
+	1-2(34.78%), 3-5(34.78%), piú di 5(30.43%);
+chi li visita lo fa nelle seguenti occasioni:
+	viaggio(34.21%), ferie(31.58%), weekend(28.95%), festivita'(5.26%);
+e si informa riguardo ai beni culturali tramite:
+	internet(31.58%), publicita'(26.32%), passaparola(23.68%), social network(18.42%);
+- Il problema covid ha inficiato sulla frequenza di visita dei beni culturali:
+	Molto(52.17%), Abbastanza(39.13%), Poco(8.7%);
+- Ció che li frena nella visita di beni culturali è:
+	distanza(37.04%), tempo(29.63%), prezzo(14.81%), compagnia(11.11%), niente(7.41%);
+- Scaricano app a tema arte:
+	No(52.17%), Si(47.83%);
+- Scaricano giochi a quiz:
+	No(65.22%), Sì(34.78%);
+chi non scarica giochi a quiz é perché:
+	disinteresse(80.0%), mai avuto occasione(20.0%);
+chi ha risposto si gioca a quiz per:
+	Passatempo(54.55%), Cultura personale(27.27%), Sfidare gli amici(9.09%), Vincere premi(9.09%);
+chi ci gioca conosce:
+	Quiz duello(57.14%), Trivia Crack(28.57%), Live Quiz(14.29%);
+- Parere app quiz tema arte:
+	use & talk(60.87%), NOTuse & talk(21.74%), NOTuse & NOTtalk(17.39%);
+- Valutano 8.91/10 l’utilitá della bacheca informativa;
+- Valutano 8.48/10 l’utilitá di vincere dei buoni;
+- Valutano 7.72/10 l’utilitá dei temi settimanali.
+- Valutano 7.5/10 l’utilitá delle curiositá durante il quiz;
+- Valutano 6.41/10 l’utilitá della classifica tra amici;
+- Valutano 5.94/10 l’utilitá dei giochi a quiz;
+
+Maschio, Oltre 55: 18 persone
+- Visitano annualmente beni culturali:
+	3-5(50.0%), piú di 5(27.78%), 1-2(22.22%);
+chi li visita lo fa nelle seguenti occasioni:
+	viaggio(42.86%), ferie(28.57%), weekend(25.0%), festivita'(3.57%);
+e si informa riguardo ai beni culturali tramite:
+	internet(41.94%), passaparola(32.26%), publicita'(12.9%), social network(12.9%);
+- Il problema covid ha inficiato sulla frequenza di visita dei beni culturali:
+	Molto(72.22%), Abbastanza(27.78%);
+- Ció che li frena nella visita di beni culturali è:
+	tempo(35.71%), distanza(21.43%), prezzo(17.86%), compagnia(10.71%), disinteresse(7.14%), niente(7.14%);
+- Scaricano app a tema arte:
+	Si(55.56%), No(44.44%);
+- Scaricano giochi a quiz:
+	No(66.67%), Sì(33.33%);
+chi non scarica giochi a quiz é perché:
+	disinteresse(100.0%);
+chi ha risposto si gioca a quiz per:
+	Passatempo(44.44%), Spirito di competizione(22.22%), Vincere premi(22.22%), Cultura personale(11.11%);
+chi ci gioca conosce:
+	Live Quiz(50.0%), Quiz duello(33.33%), Trivia Crack(16.67%);
+- Parere app quiz tema arte:
+	use & talk(64.71%), NOTuse & talk(23.53%), NOTuse & NOTtalk(11.76%);
+- Valutano 8.61/10 l’utilitá della bacheca informativa;
+- Valutano 7.78/10 l’utilitá di vincere dei buoni;
+- Valutano 7.22/10 l’utilitá dei temi settimanali.
+- Valutano 7.08/10 l’utilitá delle curiositá durante il quiz;
+- Valutano 7.08/10 l’utilitá dei giochi a quiz;
+- Valutano 6.25/10 l’utilitá della classifica tra amici;
+
+Femmina, Oltre 55: 20 persone
+- Visitano annualmente beni culturali:
+	3-5(30.0%), 1-2(25.0%), piú di 5(25.0%), 0(20.0%);
+chi li visita lo fa nelle seguenti occasioni:
+	viaggio(40.0%), weekend(28.0%), ferie(24.0%), festivita'(8.0%);
+e si informa riguardo ai beni culturali tramite:
+	passaparola(30.77%), publicita'(26.92%), social network(26.92%), internet(15.38%);
+- Il problema covid ha inficiato sulla frequenza di visita dei beni culturali:
+	Molto(55.0%), Abbastanza(40.0%), Poco(5.0%);
+- Ció che li frena nella visita di beni culturali è:
+	distanza(37.5%), tempo(29.17%), niente(16.67%), compagnia(8.33%), prezzo(8.33%);
+- Scaricano app a tema arte:
+	No(65.0%), Si(35.0%);
+- Scaricano giochi a quiz:
+	No(80.0%), Sì(20.0%);
+chi non scarica giochi a quiz é perché:
+	disinteresse(75.0%), mai avuto occasione(18.75%), incapacita'(6.25%);
+chi ha risposto si gioca a quiz per:
+	Cultura personale(50.0%), Passatempo(50.0%);
+chi ci gioca conosce:
+	Live Quiz(66.67%), Quiz duello(33.33%);
+- Parere app quiz tema arte:
+	use & talk(50.0%), NOTuse & talk(35.0%), NOTuse & NOTtalk(15.0%);
+- Valutano 8.12/10 l’utilitá della bacheca informativa;
+- Valutano 7.62/10 l’utilitá di vincere dei buoni;
+- Valutano 7.0/10 l’utilitá delle curiositá durante il quiz;
+- Valutano 6.88/10 l’utilitá dei temi settimanali.
+- Valutano 6.88/10 l’utilitá dei giochi a quiz;
+- Valutano 5.25/10 l’utilitá della classifica tra amici;
+
+Altro, Oltre 55: 0 persone
+
+Generale, Oltre 55: 38 persone
+- Visitano annualmente beni culturali:
+	3-5(39.47%), piú di 5(26.32%), 1-2(23.68%), 0(10.53%);
+chi li visita lo fa nelle seguenti occasioni:
+	viaggio(41.51%), ferie(26.42%), weekend(26.42%), festivita'(5.66%);
+e si informa riguardo ai beni culturali tramite:
+	passaparola(31.58%), internet(29.82%), publicita'(19.3%), social network(19.3%);
+- Il problema covid ha inficiato sulla frequenza di visita dei beni culturali:
+	Molto(63.16%), Abbastanza(34.21%), Poco(2.63%);
+- Ció che li frena nella visita di beni culturali è:
+	tempo(32.69%), distanza(28.85%), prezzo(13.46%), niente(11.54%), compagnia(9.62%), disinteresse(3.85%);
+- Scaricano app a tema arte:
+	No(55.26%), Si(44.74%);
+- Scaricano giochi a quiz:
+	No(73.68%), Sì(26.32%);
+chi non scarica giochi a quiz é perché:
+	disinteresse(85.71%), mai avuto occasione(10.71%), incapacita'(3.57%);
+chi ha risposto si gioca a quiz per:
+	Passatempo(46.15%), Cultura personale(23.08%), Spirito di competizione(15.38%), Vincere premi(15.38%);
+chi ci gioca conosce:
+	Live Quiz(55.56%), Quiz duello(33.33%), Trivia Crack(11.11%);
+- Parere app quiz tema arte:
+	use & talk(56.76%), NOTuse & talk(29.73%), NOTuse & NOTtalk(13.51%);
+- Valutano 8.36/10 l’utilitá della bacheca informativa;
+- Valutano 7.7/10 l’utilitá di vincere dei buoni;
+- Valutano 7.04/10 l’utilitá delle curiositá durante il quiz;
+- Valutano 7.04/10 l’utilitá dei temi settimanali.
+- Valutano 7.0/10 l’utilitá dei giochi a quiz;
+- Valutano 5.72/10 l’utilitá della classifica tra amici;
+
+Maschio, Generale: 151 persone
+- Visitano annualmente beni culturali:
+	1-2(41.06%), 3-5(34.44%), piú di 5(17.88%), 0(6.62%);
+chi li visita lo fa nelle seguenti occasioni:
+	viaggio(40.89%), weekend(24.7%), ferie(17.41%), festivita'(17.0%);
+e si informa riguardo ai beni culturali tramite:
+	passaparola(32.3%), internet(25.77%), social network(23.37%), publicita'(18.56%);
+- Il problema covid ha inficiato sulla frequenza di visita dei beni culturali:
+	Molto(56.95%), Abbastanza(27.81%), Poco(7.95%), Per nulla(7.28%);
+- Ció che li frena nella visita di beni culturali è:
+	tempo(33.22%), distanza(22.15%), prezzo(15.92%), compagnia(13.15%), disinteresse(11.76%), niente(3.81%);
+- Scaricano app a tema arte:
+	No(75.5%), Si(24.5%);
+- Scaricano giochi a quiz:
+	Sì(76.82%), No(23.18%);
+chi non scarica giochi a quiz é perché:
+	disinteresse(90.91%), mai avuto occasione(9.09%);
+chi ha risposto si gioca a quiz per:
+	Passatempo(32.94%), Sfidare gli amici(24.71%), Cultura personale(18.82%), Spirito di competizione(17.25%), Vincere premi(6.27%);
+chi ci gioca conosce:
+	Trivia Crack(38.89%), Quiz duello(37.18%), Live Quiz(23.93%);
+- Parere app quiz tema arte:
+	use & talk(55.24%), NOTuse & talk(30.07%), NOTuse & NOTtalk(14.69%);
+- Valutano 8.61/10 l’utilitá di vincere dei buoni;
+- Valutano 8.05/10 l’utilitá delle curiositá durante il quiz;
+- Valutano 7.76/10 l’utilitá della bacheca informativa;
+- Valutano 7.6/10 l’utilitá dei temi settimanali.
+- Valutano 7.07/10 l’utilitá della classifica tra amici;
+- Valutano 7.03/10 l’utilitá dei giochi a quiz;
+
+Femmina, Generale: 109 persone
+- Visitano annualmente beni culturali:
+	1-2(44.04%), 3-5(27.52%), piú di 5(22.94%), 0(5.5%);
+chi li visita lo fa nelle seguenti occasioni:
+	viaggio(40.32%), weekend(31.18%), ferie(16.13%), festivita'(12.37%);
+e si informa riguardo ai beni culturali tramite:
+	social network(29.8%), passaparola(27.78%), publicita'(23.74%), internet(18.69%);
+- Il problema covid ha inficiato sulla frequenza di visita dei beni culturali:
+	Molto(57.8%), Abbastanza(32.11%), Poco(7.34%), Per nulla(2.75%);
+- Ció che li frena nella visita di beni culturali è:
+	tempo(31.08%), distanza(27.03%), prezzo(19.59%), compagnia(10.81%), niente(8.78%), disinteresse(2.7%);
+- Scaricano app a tema arte:
+	No(61.47%), Si(38.53%);
+- Scaricano giochi a quiz:
+	Sì(66.97%), No(33.03%);
+chi non scarica giochi a quiz é perché:
+	disinteresse(75.0%), mai avuto occasione(22.22%), incapacita'(2.78%);
+chi ha risposto si gioca a quiz per:
+	Passatempo(37.67%), Cultura personale(26.03%), Sfidare gli amici(19.86%), Spirito di competizione(13.7%), Vincere premi(2.74%);
+chi ci gioca conosce:
+	Trivia Crack(42.42%), Quiz duello(38.64%), Live Quiz(18.94%);
+- Parere app quiz tema arte:
+	use & talk(76.64%), NOTuse & talk(14.95%), NOTuse & NOTtalk(8.41%);
+- Valutano 9.04/10 l’utilitá di vincere dei buoni;
+- Valutano 8.49/10 l’utilitá della bacheca informativa;
+- Valutano 8.39/10 l’utilitá dei temi settimanali.
+- Valutano 8.37/10 l’utilitá delle curiositá durante il quiz;
+- Valutano 7.33/10 l’utilitá dei giochi a quiz;
+- Valutano 6.49/10 l’utilitá della classifica tra amici;
+
+Altro, Generale: 1 persone
+- Visitano annualmente beni culturali:
+	0(100.0%);
+- Il problema covid ha inficiato sulla frequenza di visita dei beni culturali:
+	Per nulla(100.0%);
+- Ció che li frena nella visita di beni culturali è:
+	tempo(100.0%);
+- Scaricano app a tema arte:
+	Si(100.0%);
+- Scaricano giochi a quiz:
+	Sì(100.0%);
+chi ha risposto si gioca a quiz per:
+	Passatempo(100.0%);
+chi ci gioca conosce:
+	Quiz duello(100.0%);
+- Parere app quiz tema arte:
+	NOTuse & talk(100.0%);
+- Valutano 10.0/10 l’utilitá di vincere dei buoni;
+- Valutano 7.5/10 l’utilitá della classifica tra amici;
+- Valutano 5.0/10 l’utilitá della bacheca informativa;
+- Valutano 5.0/10 l’utilitá delle curiositá durante il quiz;
+- Valutano 5.0/10 l’utilitá dei temi settimanali.
+- Valutano 5.0/10 l’utilitá dei giochi a quiz;
+
+Generale, Generale: 261 persone
+- Visitano annualmente beni culturali:
+	1-2(42.15%), 3-5(31.42%), piú di 5(19.92%), 0(6.51%);
+chi li visita lo fa nelle seguenti occasioni:
+	viaggio(40.65%), weekend(27.48%), ferie(16.86%), festivita'(15.01%);
+e si informa riguardo ai beni culturali tramite:
+	passaparola(30.47%), social network(25.97%), internet(22.9%), publicita'(20.65%);
+- Il problema covid ha inficiato sulla frequenza di visita dei beni culturali:
+	Molto(57.09%), Abbastanza(29.5%), Poco(7.66%), Per nulla(5.75%);
+- Ció che li frena nella visita di beni culturali è:
+	tempo(32.65%), distanza(23.74%), prezzo(17.12%), compagnia(12.33%), disinteresse(8.68%), niente(5.48%);
+- Scaricano app a tema arte:
+	No(69.35%), Si(30.65%);
+- Scaricano giochi a quiz:
+	Sì(72.8%), No(27.2%);
+chi non scarica giochi a quiz é perché:
+	disinteresse(82.61%), mai avuto occasione(15.94%), incapacita'(1.45%);
+chi ha risposto si gioca a quiz per:
+	Passatempo(34.83%), Sfidare gli amici(22.89%), Cultura personale(21.39%), Spirito di competizione(15.92%), Vincere premi(4.98%);
+chi ci gioca conosce:
+	Trivia Crack(40.05%), Quiz duello(37.87%), Live Quiz(22.07%);
+- Parere app quiz tema arte:
+	use & talk(64.14%), NOTuse & talk(23.9%), NOTuse & NOTtalk(11.95%);
+- Valutano 8.79/10 l’utilitá di vincere dei buoni;
+- Valutano 8.17/10 l’utilitá delle curiositá durante il quiz;
+- Valutano 8.06/10 l’utilitá della bacheca informativa;
+- Valutano 7.92/10 l’utilitá dei temi settimanali.
+- Valutano 7.13/10 l’utilitá dei giochi a quiz;
+- Valutano 6.83/10 l’utilitá della classifica tra amici;
+
