@@ -3,5 +3,5 @@ Progetto svolto per il corso di Interazione Uomo Macchina. Vengono affrontate tu
 **Gruppo IUManji:** <br>
 [Vincenzo imperati](https://github.com/VincenzoImp)<br>
 [Alessio Lucciola](https://github.com/AlessioLuc)<br>
-Gaetano Conti 
+[Gaetano Conti](https://github.com/GaetanoConti)
 
